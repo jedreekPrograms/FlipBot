@@ -7,7 +7,7 @@ $ErrorActionPreference = "Stop"
 $playwrightDir = $PSScriptRoot
 $repoRoot = Split-Path -Parent $playwrightDir
 $privateRoot = Join-Path $repoRoot ".private"
-$coreDir = Join-Path $privateRoot "flipbot-playwright-core"
+$coreDir = Join-Path $privateRoot "Flipbot-Core"
 $marker = Join-Path $playwrightDir ".private-core.enabled"
 $coreRepository = "https://github.com/jedreekPrograms/Flipbot-Core.git"
 
