@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="../../actions/workflows/ci.yml"><img alt="CI" src="https://img.shields.io/github/actions/workflow/status/jedreekPrograms/VintedOfferTracker/ci.yml?branch=fix%2Fsession-refresh-stable&label=CI"></a>
+  <a href="../../actions/workflows/ci.yml"><img alt="CI" src="https://img.shields.io/github/actions/workflow/status/jedreekPrograms/FlipBot/ci.yml?branch=fix%2Fsession-refresh-stable&label=CI"></a>
   <img alt="Java" src="https://img.shields.io/badge/Java-21-ED8B00?logo=openjdk&logoColor=white">
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-4.1-6DB33F?logo=springboot&logoColor=white">
   <img alt="Playwright" src="https://img.shields.io/badge/Playwright-1.54-2EAD33?logo=playwright&logoColor=white">
@@ -465,7 +465,7 @@ cd playwright
 .\bootstrap-private-core.ps1
 ```
 
-The script clones/updates the private `jedreekPrograms/flipbot-playwright-core` repository into the ignored `.private/` directory, runs its tests, installs `pl.flipbot:flipbot-playwright-core` into the local Maven repository and activates the local Maven profile through an ignored marker file.
+The script clones/updates the private `jedreekPrograms/Flipbot-Core` repository into the ignored `.private/` directory, runs its tests, installs `pl.flipbot:flipbot-playwright-core` into the local Maven repository and activates the local Maven profile through an ignored marker file.
 
 No GitHub token is stored in this public repository. Git uses the credentials already configured on the authorized machine. Without the private core, the real `FlipBotPlaywrightApplication` deliberately refuses to start.
 
@@ -593,3 +593,7 @@ The result is closer to a small **automation platform** than to a scraper script
 ## Disclaimer
 
 This repository is an independent software-engineering project. It is not an official Vinted client and is not affiliated with Vinted. Marketplace UI, selectors and behavior can change without notice. Anyone running browser automation is responsible for applicable platform terms, account safety and local law.
+
+## Repository history
+
+This project was migrated from VintedOfferTracker. Original pull-request records are preserved in the [history archive](https://github.com/jedreekPrograms/FlipBot/tree/archive/github-pr-history). Historical PR numbers in imported commit messages refer to that archive.

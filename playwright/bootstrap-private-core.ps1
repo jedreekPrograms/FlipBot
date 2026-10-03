@@ -9,7 +9,7 @@ $repoRoot = Split-Path -Parent $playwrightDir
 $privateRoot = Join-Path $repoRoot ".private"
 $coreDir = Join-Path $privateRoot "flipbot-playwright-core"
 $marker = Join-Path $playwrightDir ".private-core.enabled"
-$coreRepository = "https://github.com/jedreekPrograms/flipbot-playwright-core.git"
+$coreRepository = "https://github.com/jedreekPrograms/Flipbot-Core.git"
 
 if (-not (Get-Command git -ErrorAction SilentlyContinue)) {
     throw "Git is required to bootstrap the private Playwright core."
