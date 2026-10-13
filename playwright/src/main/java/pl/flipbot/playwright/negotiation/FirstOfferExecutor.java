@@ -7,7 +7,6 @@ import com.microsoft.playwright.options.WaitForSelectorState;
 import lombok.extern.slf4j.Slf4j;
 import pl.flipbot.playwright.api.listing.ListingClient;
 import pl.flipbot.playwright.api.listing.dto.ListingResponseDto;
-import pl.flipbot.playwright.api.listing.dto.UpdateListingRequestDto;
 import pl.flipbot.playwright.context.BotContext;
 import pl.flipbot.playwright.marketplace.MarketplaceUrls;
 import pl.flipbot.playwright.model.NegotiationStepDto;
@@ -449,7 +448,8 @@ public class FirstOfferExecutor {
         );
 
         ListingResponseDto updatedListing =
-                markNegotiationStarted(
+                new FirstOfferBackendPersistence(context, listingClient)
+                        .markNegotiationStarted(
                         listing,
                         offer.offerPrice(),
                         offer.stepNumber(),
@@ -564,7 +564,9 @@ public class FirstOfferExecutor {
                 return false;
             }
 
-            ListingResponseDto updatedListing = markNegotiationStarted(
+            ListingResponseDto updatedListing = new FirstOfferBackendPersistence(
+                    context, listingClient
+            ).markNegotiationStarted(
                     listing,
                     preparedOffer.offerPrice(),
                     preparedOffer.stepNumber(),
@@ -872,62 +874,7 @@ public class FirstOfferExecutor {
 
 
 
-    private ListingResponseDto markNegotiationStarted(
-            ListingResponseDto listing,
-            BigDecimal offerPrice,
-            Integer stepNumber,
-            String conversationId,
-            String conversationUrl
-    ) {
 
-        UpdateListingRequestDto request =
-                new UpdateListingRequestDto(
-                        "NEGOTIATING",
-                        offerPrice,
-                        stepNumber,
-                        true,
-                        conversationId,
-                        conversationUrl
-                );
-
-        ListingResponseDto updatedListing =
-                listingClient.updateListing(
-                        context.getBot()
-                                .getId(),
-                        listing.id(),
-                        request
-                );
-
-        if (
-                !"NEGOTIATING".equals(
-                        updatedListing.status()
-                )
-        ) {
-
-            throw new IllegalStateException(
-                    "Backend returned unexpected listing status after "
-                            + "starting negotiation. Expected NEGOTIATING, "
-                            + "actual: "
-                            + updatedListing.status()
-            );
-        }
-
-        if (
-                !conversationId.equals(
-                        updatedListing.conversationId()
-                )
-        ) {
-
-            throw new IllegalStateException(
-                    "Backend returned unexpected conversation ID. Expected: "
-                            + conversationId
-                            + ", actual: "
-                            + updatedListing.conversationId()
-            );
-        }
-
-        return updatedListing;
-    }
 
 
     private void verifySubmittedOfferSafely(
