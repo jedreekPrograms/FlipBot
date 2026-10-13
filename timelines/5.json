@@ -1,0 +1,318 @@
+[
+  {
+    "sha": "8c504d0a83bf6ddbedeb28676f51a7cddd5b3086",
+    "node_id": "C_kwDOSC2AMdoAKDhjNTA0ZDBhODNiZjZkZGJlZGViMjg2NzZmNTFhN2NkZGQ1YjMwODY",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/8c504d0a83bf6ddbedeb28676f51a7cddd5b3086",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/8c504d0a83bf6ddbedeb28676f51a7cddd5b3086",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-12T19:14:37Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-12T19:14:37Z"
+    },
+    "tree": {
+      "sha": "d09873462c0b0027e470afbf3cf97ff2bea5dd3f",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/d09873462c0b0027e470afbf3cf97ff2bea5dd3f"
+    },
+    "message": "Carlisle: isolate Playwright runtime per bot worker",
+    "parents": [
+      {
+        "sha": "c8e13c4a8d830c6a1ba20c5a85cd719305e69133",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/c8e13c4a8d830c6a1ba20c5a85cd719305e69133",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/c8e13c4a8d830c6a1ba20c5a85cd719305e69133"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "97ea4e292d5ab0197219a5d01b84ab49b32ddadc",
+    "node_id": "C_kwDOSC2AMdoAKDk3ZWE0ZTI5MmQ1YWIwMTk3MjE5YTVkMDFiODRhYjQ5YjMyZGRhZGM",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/97ea4e292d5ab0197219a5d01b84ab49b32ddadc",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/97ea4e292d5ab0197219a5d01b84ab49b32ddadc",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-12T19:15:04Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-12T19:15:04Z"
+    },
+    "tree": {
+      "sha": "7dc9695dd599a958a2155670ec29f4f69caca1cc",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/7dc9695dd599a958a2155670ec29f4f69caca1cc"
+    },
+    "message": "Carlisle: separate worker scheduling from bot runtimes",
+    "parents": [
+      {
+        "sha": "8c504d0a83bf6ddbedeb28676f51a7cddd5b3086",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/8c504d0a83bf6ddbedeb28676f51a7cddd5b3086",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/8c504d0a83bf6ddbedeb28676f51a7cddd5b3086"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "f9df077519b727e6b6d662480873e1438af0e2c3",
+    "node_id": "C_kwDOSC2AMdoAKGY5ZGYwNzc1MTliNzI3ZTZiNmQ2NjI0ODA4NzNlMTQzOGFmMGUyYzM",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/f9df077519b727e6b6d662480873e1438af0e2c3",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/f9df077519b727e6b6d662480873e1438af0e2c3",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-12T19:15:21Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-12T19:15:21Z"
+    },
+    "tree": {
+      "sha": "c9374bbcdc3f8874535213ed2ff5ff34c30f1ed8",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/c9374bbcdc3f8874535213ed2ff5ff34c30f1ed8"
+    },
+    "message": "Carlisle: enforce thread ownership for Playwright runtime",
+    "parents": [
+      {
+        "sha": "97ea4e292d5ab0197219a5d01b84ab49b32ddadc",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/97ea4e292d5ab0197219a5d01b84ab49b32ddadc",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/97ea4e292d5ab0197219a5d01b84ab49b32ddadc"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "a90f4a92def06238eeb903c7f2cd2549f9507b62",
+    "node_id": "C_kwDOSC2AMdoAKGE5MGY0YTkyZGVmMDYyMzhlZWI5MDNjN2YyY2QyNTQ5Zjk1MDdiNjI",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/a90f4a92def06238eeb903c7f2cd2549f9507b62",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/a90f4a92def06238eeb903c7f2cd2549f9507b62",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-12T19:15:29Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-12T19:15:29Z"
+    },
+    "tree": {
+      "sha": "396596fff6678b0c39f1cf3057a5b70a832eb2f7",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/396596fff6678b0c39f1cf3057a5b70a832eb2f7"
+    },
+    "message": "Carlisle: remove shared browser from application bootstrap",
+    "parents": [
+      {
+        "sha": "f9df077519b727e6b6d662480873e1438af0e2c3",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/f9df077519b727e6b6d662480873e1438af0e2c3",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/f9df077519b727e6b6d662480873e1438af0e2c3"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "8a16a3e78a732104d66da0263680102104c1bbce",
+    "node_id": "C_kwDOSC2AMdoAKDhhMTZhM2U3OGE3MzIxMDRkNjZkYTAyNjM2ODAxMDIxMDRjMWJiY2U",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/8a16a3e78a732104d66da0263680102104c1bbce",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/8a16a3e78a732104d66da0263680102104c1bbce",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-12T19:16:17Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-12T19:16:17Z"
+    },
+    "tree": {
+      "sha": "dc95b41098eb622ea30f334971627d67423d9f5c",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/dc95b41098eb622ea30f334971627d67423d9f5c"
+    },
+    "message": "Carlisle: track bot runtime lifecycle explicitly",
+    "parents": [
+      {
+        "sha": "a90f4a92def06238eeb903c7f2cd2549f9507b62",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/a90f4a92def06238eeb903c7f2cd2549f9507b62",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/a90f4a92def06238eeb903c7f2cd2549f9507b62"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "fca1b8f5ac89dcd4059d13192ba6520d3a7f3861",
+    "node_id": "C_kwDOSC2AMdoAKGZjYTFiOGY1YWM4OWRjZDQwNTlkMTMxOTJiYTY1MjBkM2E3ZjM4NjE",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/fca1b8f5ac89dcd4059d13192ba6520d3a7f3861",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/fca1b8f5ac89dcd4059d13192ba6520d3a7f3861",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-12T19:16:47Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-12T19:16:47Z"
+    },
+    "tree": {
+      "sha": "a83efa90cf209da8ab104601f1eb45a861ba3304",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/a83efa90cf209da8ab104601f1eb45a861ba3304"
+    },
+    "message": "Carlisle: prevent overlapping runtimes during rapid restart",
+    "parents": [
+      {
+        "sha": "8a16a3e78a732104d66da0263680102104c1bbce",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/8a16a3e78a732104d66da0263680102104c1bbce",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/8a16a3e78a732104d66da0263680102104c1bbce"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "44f149728491e47e6f9073eed57112507d675e7f",
+    "node_id": "C_kwDOSC2AMdoAKDQ0ZjE0OTcyODQ5MWU0N2U2ZjkwNzNlZWQ1NzExMjUwN2Q2NzVlN2Y",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/44f149728491e47e6f9073eed57112507d675e7f",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/44f149728491e47e6f9073eed57112507d675e7f",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-12T19:17:09Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-12T19:17:09Z"
+    },
+    "tree": {
+      "sha": "35075428774bff7286fb59a32178c78091fb1b3c",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/35075428774bff7286fb59a32178c78091fb1b3c"
+    },
+    "message": "Carlisle: clean up partial browser startup failures",
+    "parents": [
+      {
+        "sha": "fca1b8f5ac89dcd4059d13192ba6520d3a7f3861",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/fca1b8f5ac89dcd4059d13192ba6520d3a7f3861",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/fca1b8f5ac89dcd4059d13192ba6520d3a7f3861"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "id": 29361230062,
+    "node_id": "ME_lADOSC2AMc8AAAABMgnUbs8AAAAG1hDQ7g",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/issues/events/29361230062",
+    "actor": {
+      "login": "jedreekPrograms",
+      "id": 221845274,
+      "node_id": "U_kgDODTkXGg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221845274?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jedreekPrograms",
+      "html_url": "https://github.com/jedreekPrograms",
+      "followers_url": "https://api.github.com/users/jedreekPrograms/followers",
+      "following_url": "https://api.github.com/users/jedreekPrograms/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jedreekPrograms/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jedreekPrograms/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jedreekPrograms/subscriptions",
+      "organizations_url": "https://api.github.com/users/jedreekPrograms/orgs",
+      "repos_url": "https://api.github.com/users/jedreekPrograms/repos",
+      "events_url": "https://api.github.com/users/jedreekPrograms/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jedreekPrograms/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "event": "merged",
+    "commit_id": "1b65adbfdaf129a4b3957c9cffe6c388a2012610",
+    "commit_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/commits/1b65adbfdaf129a4b3957c9cffe6c388a2012610",
+    "created_at": "2026-08-12T19:21:36Z",
+    "performed_via_github_app": null
+  },
+  {
+    "id": 29361230138,
+    "node_id": "CE_lADOSC2AMc8AAAABMgnUbs8AAAAG1hDROg",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/issues/events/29361230138",
+    "actor": {
+      "login": "jedreekPrograms",
+      "id": 221845274,
+      "node_id": "U_kgDODTkXGg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221845274?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jedreekPrograms",
+      "html_url": "https://github.com/jedreekPrograms",
+      "followers_url": "https://api.github.com/users/jedreekPrograms/followers",
+      "following_url": "https://api.github.com/users/jedreekPrograms/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jedreekPrograms/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jedreekPrograms/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jedreekPrograms/subscriptions",
+      "organizations_url": "https://api.github.com/users/jedreekPrograms/orgs",
+      "repos_url": "https://api.github.com/users/jedreekPrograms/repos",
+      "events_url": "https://api.github.com/users/jedreekPrograms/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jedreekPrograms/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "event": "closed",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2026-08-12T19:21:37Z",
+    "state_reason": null,
+    "intent": null,
+    "performed_via_github_app": null
+  }
+]

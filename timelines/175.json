@@ -1,0 +1,210 @@
+[
+  {
+    "sha": "6c29a1f2aaece09a0efd198559ccebf2aaaacfee",
+    "node_id": "C_kwDOSC2AMdoAKDZjMjlhMWYyYWFlY2UwOWEwZWZkMTk4NTU5Y2NlYmYyYWFhYWNmZWU",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/6c29a1f2aaece09a0efd198559ccebf2aaaacfee",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/6c29a1f2aaece09a0efd198559ccebf2aaaacfee",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-11T21:17:42Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-11T21:17:42Z"
+    },
+    "tree": {
+      "sha": "1ec29b296b99835ce2fdd9c3983d59d0017672a4",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/1ec29b296b99835ce2fdd9c3983d59d0017672a4"
+    },
+    "message": "fix: resume market stats after rate-limit backoff",
+    "parents": [
+      {
+        "sha": "673b6f84ce49bb64f35e447c29c745825c5aa152",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/673b6f84ce49bb64f35e447c29c745825c5aa152",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/673b6f84ce49bb64f35e447c29c745825c5aa152"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "ccbb2b855cff20859fe1ea64aa1393a1aacaf81b",
+    "node_id": "C_kwDOSC2AMdoAKGNjYmIyYjg1NWNmZjIwODU5ZmUxZWE2NGFhMTM5M2ExYWFjYWY4MWI",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/ccbb2b855cff20859fe1ea64aa1393a1aacaf81b",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/ccbb2b855cff20859fe1ea64aa1393a1aacaf81b",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-11T21:17:48Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-11T21:17:48Z"
+    },
+    "tree": {
+      "sha": "c42ae646c645b0ee598062c8b2195f77e5177c12",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/c42ae646c645b0ee598062c8b2195f77e5177c12"
+    },
+    "message": "test: add market stats target rotation support",
+    "parents": [
+      {
+        "sha": "6c29a1f2aaece09a0efd198559ccebf2aaaacfee",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/6c29a1f2aaece09a0efd198559ccebf2aaaacfee",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/6c29a1f2aaece09a0efd198559ccebf2aaaacfee"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "a6ae4226b3081fa23bb933465c7a96bfda0d2f37",
+    "node_id": "C_kwDOSC2AMdoAKGE2YWU0MjI2YjMwODFmYTIzYmI5MzM0NjVjN2E5NmJmZGEwZDJmMzc",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/a6ae4226b3081fa23bb933465c7a96bfda0d2f37",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/a6ae4226b3081fa23bb933465c7a96bfda0d2f37",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-11T21:17:58Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-11T21:17:58Z"
+    },
+    "tree": {
+      "sha": "e56796207949e57f4cf45eaa6ef0ab7cf36a32b6",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/e56796207949e57f4cf45eaa6ef0ab7cf36a32b6"
+    },
+    "message": "fix: track market stats resume position",
+    "parents": [
+      {
+        "sha": "ccbb2b855cff20859fe1ea64aa1393a1aacaf81b",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/ccbb2b855cff20859fe1ea64aa1393a1aacaf81b",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/ccbb2b855cff20859fe1ea64aa1393a1aacaf81b"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "deefe2f214d5f99aa854827ed4ac7bd244c0757b",
+    "node_id": "C_kwDOSC2AMdoAKGRlZWZlMmYyMTRkNWY5OWFhODU0ODI3ZWQ0YWM3YmQyNDRjMDc1N2I",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/deefe2f214d5f99aa854827ed4ac7bd244c0757b",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/deefe2f214d5f99aa854827ed4ac7bd244c0757b",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-11T21:18:06Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-11T21:18:06Z"
+    },
+    "tree": {
+      "sha": "605ab383c985c996cf5fa7664ff4c0c99c2c35e4",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/605ab383c985c996cf5fa7664ff4c0c99c2c35e4"
+    },
+    "message": "test: cover market stats resume rotation",
+    "parents": [
+      {
+        "sha": "a6ae4226b3081fa23bb933465c7a96bfda0d2f37",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/a6ae4226b3081fa23bb933465c7a96bfda0d2f37",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/a6ae4226b3081fa23bb933465c7a96bfda0d2f37"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "id": 30999987338,
+    "node_id": "ME_lADOSC2AMc8AAAABQ5isu88AAAAHN75Eig",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/issues/events/30999987338",
+    "actor": {
+      "login": "jedreekPrograms",
+      "id": 221845274,
+      "node_id": "U_kgDODTkXGg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221845274?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jedreekPrograms",
+      "html_url": "https://github.com/jedreekPrograms",
+      "followers_url": "https://api.github.com/users/jedreekPrograms/followers",
+      "following_url": "https://api.github.com/users/jedreekPrograms/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jedreekPrograms/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jedreekPrograms/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jedreekPrograms/subscriptions",
+      "organizations_url": "https://api.github.com/users/jedreekPrograms/orgs",
+      "repos_url": "https://api.github.com/users/jedreekPrograms/repos",
+      "events_url": "https://api.github.com/users/jedreekPrograms/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jedreekPrograms/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "event": "merged",
+    "commit_id": "ec9d901437c29bc67f5c9573368bfaae177020ed",
+    "commit_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/commits/ec9d901437c29bc67f5c9573368bfaae177020ed",
+    "created_at": "2026-09-11T21:19:33Z",
+    "performed_via_github_app": null
+  },
+  {
+    "id": 30999987390,
+    "node_id": "CE_lADOSC2AMc8AAAABQ5isu88AAAAHN75Evg",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/issues/events/30999987390",
+    "actor": {
+      "login": "jedreekPrograms",
+      "id": 221845274,
+      "node_id": "U_kgDODTkXGg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221845274?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jedreekPrograms",
+      "html_url": "https://github.com/jedreekPrograms",
+      "followers_url": "https://api.github.com/users/jedreekPrograms/followers",
+      "following_url": "https://api.github.com/users/jedreekPrograms/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jedreekPrograms/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jedreekPrograms/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jedreekPrograms/subscriptions",
+      "organizations_url": "https://api.github.com/users/jedreekPrograms/orgs",
+      "repos_url": "https://api.github.com/users/jedreekPrograms/repos",
+      "events_url": "https://api.github.com/users/jedreekPrograms/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jedreekPrograms/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "event": "closed",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2026-09-11T21:19:33Z",
+    "state_reason": null,
+    "intent": null,
+    "performed_via_github_app": null
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "sha": "55fe00657a5dcee9eda114c6ba593b53ab8db1dd",
+    "node_id": "C_kwDOSC2AMdoAKDU1ZmUwMDY1N2E1ZGNlZTllZGExMTRjNmJhNTkzYjUzYWI4ZGIxZGQ",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/55fe00657a5dcee9eda114c6ba593b53ab8db1dd",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/55fe00657a5dcee9eda114c6ba593b53ab8db1dd",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-02T00:22:05Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-02T00:22:05Z"
+    },
+    "tree": {
+      "sha": "c138cb6af75f70d2c7f67f8ea2bafb5df15f638d",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/c138cb6af75f70d2c7f67f8ea2bafb5df15f638d"
+    },
+    "message": "Make UI colors and typography semantic and consistent",
+    "parents": [
+      {
+        "sha": "f6021e0fc7630c05a522b452127fd422605930a4",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/f6021e0fc7630c05a522b452127fd422605930a4",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/f6021e0fc7630c05a522b452127fd422605930a4"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "id": 30382723776,
+    "node_id": "ME_lADOSC2AMc8AAAABPP4YrM8AAAAHEvOSwA",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/issues/events/30382723776",
+    "actor": {
+      "login": "jedreekPrograms",
+      "id": 221845274,
+      "node_id": "U_kgDODTkXGg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221845274?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jedreekPrograms",
+      "html_url": "https://github.com/jedreekPrograms",
+      "followers_url": "https://api.github.com/users/jedreekPrograms/followers",
+      "following_url": "https://api.github.com/users/jedreekPrograms/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jedreekPrograms/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jedreekPrograms/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jedreekPrograms/subscriptions",
+      "organizations_url": "https://api.github.com/users/jedreekPrograms/orgs",
+      "repos_url": "https://api.github.com/users/jedreekPrograms/repos",
+      "events_url": "https://api.github.com/users/jedreekPrograms/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jedreekPrograms/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "event": "merged",
+    "commit_id": "7b82df6e195096d6eda71f157cbaf7627a6d5b8d",
+    "commit_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/commits/7b82df6e195096d6eda71f157cbaf7627a6d5b8d",
+    "created_at": "2026-09-02T00:25:52Z",
+    "performed_via_github_app": null
+  },
+  {
+    "id": 30382723836,
+    "node_id": "CE_lADOSC2AMc8AAAABPP4YrM8AAAAHEvOS_A",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/issues/events/30382723836",
+    "actor": {
+      "login": "jedreekPrograms",
+      "id": 221845274,
+      "node_id": "U_kgDODTkXGg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221845274?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jedreekPrograms",
+      "html_url": "https://github.com/jedreekPrograms",
+      "followers_url": "https://api.github.com/users/jedreekPrograms/followers",
+      "following_url": "https://api.github.com/users/jedreekPrograms/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jedreekPrograms/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jedreekPrograms/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jedreekPrograms/subscriptions",
+      "organizations_url": "https://api.github.com/users/jedreekPrograms/orgs",
+      "repos_url": "https://api.github.com/users/jedreekPrograms/repos",
+      "events_url": "https://api.github.com/users/jedreekPrograms/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jedreekPrograms/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "event": "closed",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2026-09-02T00:25:52Z",
+    "state_reason": null,
+    "intent": null,
+    "performed_via_github_app": null
+  }
+]

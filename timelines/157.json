@@ -1,0 +1,282 @@
+[
+  {
+    "sha": "c562dd527567e34f52684d5e0fbeafb68d7a4e7e",
+    "node_id": "C_kwDOSC2AMdoAKGM1NjJkZDUyNzU2N2UzNGY1MjY4NGQ1ZTBmYmVhZmI2OGQ3YTRlN2U",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/c562dd527567e34f52684d5e0fbeafb68d7a4e7e",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/c562dd527567e34f52684d5e0fbeafb68d7a4e7e",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-08T23:20:24Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-08T23:20:24Z"
+    },
+    "tree": {
+      "sha": "180fef4082b554428f78e26057f50734e363ab29",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/180fef4082b554428f78e26057f50734e363ab29"
+    },
+    "message": "refactor: separate mobile app from desktop frontend",
+    "parents": [
+      {
+        "sha": "3e705bfb21f0d6b2c74808497840c269de6a6fae",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/3e705bfb21f0d6b2c74808497840c269de6a6fae",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/3e705bfb21f0d6b2c74808497840c269de6a6fae"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "5ff2fd9c771055a662e9a371cfc1a3e363b38edd",
+    "node_id": "C_kwDOSC2AMdoAKDVmZjJmZDljNzcxMDU1YTY2MmU5YTM3MWNmYzFhM2UzNjNiMzhlZGQ",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/5ff2fd9c771055a662e9a371cfc1a3e363b38edd",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/5ff2fd9c771055a662e9a371cfc1a3e363b38edd",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-08T23:21:31Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-08T23:21:31Z"
+    },
+    "tree": {
+      "sha": "6425c9f60447528a6b33ed9f08125f9ad1f308bc",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/6425c9f60447528a6b33ed9f08125f9ad1f308bc"
+    },
+    "message": "feat: give mobile app its own runtime ports",
+    "parents": [
+      {
+        "sha": "c562dd527567e34f52684d5e0fbeafb68d7a4e7e",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/c562dd527567e34f52684d5e0fbeafb68d7a4e7e",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/c562dd527567e34f52684d5e0fbeafb68d7a4e7e"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "aa4a5f688ad1bef3039e4e8033e7a6b8f891a272",
+    "node_id": "C_kwDOSC2AMdoAKGFhNGE1ZjY4OGFkMWJlZjMwMzllNGU4MDMzZTdhNmI4Zjg5MWEyNzI",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/aa4a5f688ad1bef3039e4e8033e7a6b8f891a272",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/aa4a5f688ad1bef3039e4e8033e7a6b8f891a272",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-08T23:21:55Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-08T23:21:55Z"
+    },
+    "tree": {
+      "sha": "596454486fabd71c92f3e535dbd36f9a359521bc",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/596454486fabd71c92f3e535dbd36f9a359521bc"
+    },
+    "message": "ci: verify standalone mobile app",
+    "parents": [
+      {
+        "sha": "5ff2fd9c771055a662e9a371cfc1a3e363b38edd",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/5ff2fd9c771055a662e9a371cfc1a3e363b38edd",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/5ff2fd9c771055a662e9a371cfc1a3e363b38edd"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "78b79bbac2105f62eda387cc8965fe5109eb214b",
+    "node_id": "C_kwDOSC2AMdoAKDc4Yjc5YmJhYzIxMDVmNjJlZGEzODdjYzg5NjVmZTUxMDllYjIxNGI",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/78b79bbac2105f62eda387cc8965fe5109eb214b",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/78b79bbac2105f62eda387cc8965fe5109eb214b",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-08T23:22:09Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-08T23:22:09Z"
+    },
+    "tree": {
+      "sha": "a228b5eb829027655d0195363f144cc7b95a100d",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/a228b5eb829027655d0195363f144cc7b95a100d"
+    },
+    "message": "docs: describe standalone FlipBot mobile app",
+    "parents": [
+      {
+        "sha": "aa4a5f688ad1bef3039e4e8033e7a6b8f891a272",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/aa4a5f688ad1bef3039e4e8033e7a6b8f891a272",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/aa4a5f688ad1bef3039e4e8033e7a6b8f891a272"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "36124c9a9f00588adc69c035e632e4fa2ffe60b9",
+    "node_id": "C_kwDOSC2AMdoAKDM2MTI0YzlhOWYwMDU4OGFkYzY5YzAzNWU2MzJlNGZhMmZmZTYwYjk",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/36124c9a9f00588adc69c035e632e4fa2ffe60b9",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/36124c9a9f00588adc69c035e632e4fa2ffe60b9",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-08T23:22:38Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-08T23:22:38Z"
+    },
+    "tree": {
+      "sha": "d2a3ac4d18770f5acfaf116924ecd34a796b3f38",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/d2a3ac4d18770f5acfaf116924ecd34a796b3f38"
+    },
+    "message": "chore: ignore mobile environment files",
+    "parents": [
+      {
+        "sha": "78b79bbac2105f62eda387cc8965fe5109eb214b",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/78b79bbac2105f62eda387cc8965fe5109eb214b",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/78b79bbac2105f62eda387cc8965fe5109eb214b"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "1bb771604e7aba5a3f73b06595fa99a9a2ccf51a",
+    "node_id": "C_kwDOSC2AMdoAKDFiYjc3MTYwNGU3YWJhNWEzZjczYjA2NTk1ZmE5OWE5YTJjY2Y1MWE",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/1bb771604e7aba5a3f73b06595fa99a9a2ccf51a",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/1bb771604e7aba5a3f73b06595fa99a9a2ccf51a",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-08T23:23:06Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-08T23:23:06Z"
+    },
+    "tree": {
+      "sha": "20812aa2a4f66bfe9ebfc998f593d40fb22e93a2",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/20812aa2a4f66bfe9ebfc998f593d40fb22e93a2"
+    },
+    "message": "docs: replace template mobile readme",
+    "parents": [
+      {
+        "sha": "36124c9a9f00588adc69c035e632e4fa2ffe60b9",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/36124c9a9f00588adc69c035e632e4fa2ffe60b9",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/36124c9a9f00588adc69c035e632e4fa2ffe60b9"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "id": 30790951681,
+    "node_id": "ME_lADOSC2AMc8AAAABQXHwF88AAAAHK0ijAQ",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/issues/events/30790951681",
+    "actor": {
+      "login": "jedreekPrograms",
+      "id": 221845274,
+      "node_id": "U_kgDODTkXGg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221845274?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jedreekPrograms",
+      "html_url": "https://github.com/jedreekPrograms",
+      "followers_url": "https://api.github.com/users/jedreekPrograms/followers",
+      "following_url": "https://api.github.com/users/jedreekPrograms/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jedreekPrograms/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jedreekPrograms/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jedreekPrograms/subscriptions",
+      "organizations_url": "https://api.github.com/users/jedreekPrograms/orgs",
+      "repos_url": "https://api.github.com/users/jedreekPrograms/repos",
+      "events_url": "https://api.github.com/users/jedreekPrograms/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jedreekPrograms/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "event": "merged",
+    "commit_id": "fccc0e7d61466961d09f9303e7975b699c747ea0",
+    "commit_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/commits/fccc0e7d61466961d09f9303e7975b699c747ea0",
+    "created_at": "2026-09-08T23:24:52Z",
+    "performed_via_github_app": null
+  },
+  {
+    "id": 30790951752,
+    "node_id": "CE_lADOSC2AMc8AAAABQXHwF88AAAAHK0ijSA",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/issues/events/30790951752",
+    "actor": {
+      "login": "jedreekPrograms",
+      "id": 221845274,
+      "node_id": "U_kgDODTkXGg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221845274?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jedreekPrograms",
+      "html_url": "https://github.com/jedreekPrograms",
+      "followers_url": "https://api.github.com/users/jedreekPrograms/followers",
+      "following_url": "https://api.github.com/users/jedreekPrograms/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jedreekPrograms/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jedreekPrograms/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jedreekPrograms/subscriptions",
+      "organizations_url": "https://api.github.com/users/jedreekPrograms/orgs",
+      "repos_url": "https://api.github.com/users/jedreekPrograms/repos",
+      "events_url": "https://api.github.com/users/jedreekPrograms/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jedreekPrograms/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "event": "closed",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2026-09-08T23:24:52Z",
+    "state_reason": null,
+    "intent": null,
+    "performed_via_github_app": null
+  }
+]

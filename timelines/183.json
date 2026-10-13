@@ -1,0 +1,138 @@
+[
+  {
+    "sha": "a5feaa454f0643e7e4b6eb2bacd1ea246baea259",
+    "node_id": "C_kwDOSC2AMdoAKGE1ZmVhYTQ1NGYwNjQzZTdlNGI2ZWIyYmFjZDFlYTI0NmJhZWEyNTk",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/a5feaa454f0643e7e4b6eb2bacd1ea246baea259",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/a5feaa454f0643e7e4b6eb2bacd1ea246baea259",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-12T21:35:27Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-12T21:35:27Z"
+    },
+    "tree": {
+      "sha": "ae36e29af28cdb140dbd6e1157da380a549e5872",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/ae36e29af28cdb140dbd6e1157da380a549e5872"
+    },
+    "message": "chore: bump mobile recovery build",
+    "parents": [
+      {
+        "sha": "18746d9e0a22db2135247d2ee991be2807c618a1",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/18746d9e0a22db2135247d2ee991be2807c618a1",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/18746d9e0a22db2135247d2ee991be2807c618a1"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "838aa2403c3433a360acebc10850795496caea69",
+    "node_id": "C_kwDOSC2AMdoAKDgzOGFhMjQwM2MzNDMzYTM2MGFjZWJjMTA4NTA3OTU0OTZjYWVhNjk",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/838aa2403c3433a360acebc10850795496caea69",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/838aa2403c3433a360acebc10850795496caea69",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-12T21:35:54Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-12T21:35:54Z"
+    },
+    "tree": {
+      "sha": "d85767ab3a838c02351345ecab6e0fc235b4c715",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/d85767ab3a838c02351345ecab6e0fc235b4c715"
+    },
+    "message": "docs: explain mobile recovery update",
+    "parents": [
+      {
+        "sha": "a5feaa454f0643e7e4b6eb2bacd1ea246baea259",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/a5feaa454f0643e7e4b6eb2bacd1ea246baea259",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/a5feaa454f0643e7e4b6eb2bacd1ea246baea259"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "id": 31034036427,
+    "node_id": "ME_lADOSC2AMc8AAAABRAWals8AAAAHOcXQyw",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/issues/events/31034036427",
+    "actor": {
+      "login": "jedreekPrograms",
+      "id": 221845274,
+      "node_id": "U_kgDODTkXGg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221845274?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jedreekPrograms",
+      "html_url": "https://github.com/jedreekPrograms",
+      "followers_url": "https://api.github.com/users/jedreekPrograms/followers",
+      "following_url": "https://api.github.com/users/jedreekPrograms/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jedreekPrograms/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jedreekPrograms/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jedreekPrograms/subscriptions",
+      "organizations_url": "https://api.github.com/users/jedreekPrograms/orgs",
+      "repos_url": "https://api.github.com/users/jedreekPrograms/repos",
+      "events_url": "https://api.github.com/users/jedreekPrograms/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jedreekPrograms/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "event": "merged",
+    "commit_id": "6c3b3165c18fb355f4e2a4fd08944645c94c0a9a",
+    "commit_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/commits/6c3b3165c18fb355f4e2a4fd08944645c94c0a9a",
+    "created_at": "2026-09-12T21:37:54Z",
+    "performed_via_github_app": null
+  },
+  {
+    "id": 31034036451,
+    "node_id": "CE_lADOSC2AMc8AAAABRAWals8AAAAHOcXQ4w",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/issues/events/31034036451",
+    "actor": {
+      "login": "jedreekPrograms",
+      "id": 221845274,
+      "node_id": "U_kgDODTkXGg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221845274?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jedreekPrograms",
+      "html_url": "https://github.com/jedreekPrograms",
+      "followers_url": "https://api.github.com/users/jedreekPrograms/followers",
+      "following_url": "https://api.github.com/users/jedreekPrograms/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jedreekPrograms/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jedreekPrograms/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jedreekPrograms/subscriptions",
+      "organizations_url": "https://api.github.com/users/jedreekPrograms/orgs",
+      "repos_url": "https://api.github.com/users/jedreekPrograms/repos",
+      "events_url": "https://api.github.com/users/jedreekPrograms/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jedreekPrograms/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "event": "closed",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2026-09-12T21:37:54Z",
+    "state_reason": null,
+    "intent": null,
+    "performed_via_github_app": null
+  }
+]

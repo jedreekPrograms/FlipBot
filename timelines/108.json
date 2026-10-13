@@ -1,0 +1,354 @@
+[
+  {
+    "sha": "2be189524ff1a7e672170b8e3159edc6b745fdf6",
+    "node_id": "C_kwDOSC2AMdoAKDJiZTE4OTUyNGZmMWE3ZTY3MjE3MGI4ZTMxNTllZGM2Yjc0NWZkZjY",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/2be189524ff1a7e672170b8e3159edc6b745fdf6",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/2be189524ff1a7e672170b8e3159edc6b745fdf6",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-27T14:22:57Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-27T14:22:57Z"
+    },
+    "tree": {
+      "sha": "a77157fb7a2d37337ed6fedbec3694727f20f91a",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/a77157fb7a2d37337ed6fedbec3694727f20f91a"
+    },
+    "message": "Extract fingerprint runtime support from standalone app",
+    "parents": [
+      {
+        "sha": "7dc460249d6fa8c9f85d8e3b7f55246608e2fad5",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/7dc460249d6fa8c9f85d8e3b7f55246608e2fad5",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/7dc460249d6fa8c9f85d8e3b7f55246608e2fad5"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "867553b99a0db593b2ada27d51819aa15e56f864",
+    "node_id": "C_kwDOSC2AMdoAKDg2NzU1M2I5OWEwZGI1OTNiMmFkYTI3ZDUxODE5YWExNWU1NmY4NjQ",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/867553b99a0db593b2ada27d51819aa15e56f864",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/867553b99a0db593b2ada27d51819aa15e56f864",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-27T14:23:24Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-27T14:23:24Z"
+    },
+    "tree": {
+      "sha": "cd46bdc0ed92f9e83225a299bb51a6f0b2e7c630",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/cd46bdc0ed92f9e83225a299bb51a6f0b2e7c630"
+    },
+    "message": "Convert fingerprint load app into managed runner",
+    "parents": [
+      {
+        "sha": "2be189524ff1a7e672170b8e3159edc6b745fdf6",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/2be189524ff1a7e672170b8e3159edc6b745fdf6",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/2be189524ff1a7e672170b8e3159edc6b745fdf6"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "06f4a06c251d6fd88f7dece3f0ca1ec2a0fc1dd0",
+    "node_id": "C_kwDOSC2AMdoAKDA2ZjRhMDZjMjUxZDZmZDg4ZjdkZWNlM2YwY2ExZWMyYTBmYzFkZDA",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/06f4a06c251d6fd88f7dece3f0ca1ec2a0fc1dd0",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/06f4a06c251d6fd88f7dece3f0ca1ec2a0fc1dd0",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-27T14:23:40Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-27T14:23:40Z"
+    },
+    "tree": {
+      "sha": "c4a953c7948cbc9f85f23dcda665666e35fc21ea",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/c4a953c7948cbc9f85f23dcda665666e35fc21ea"
+    },
+    "message": "Route controlled fleet through managed runner",
+    "parents": [
+      {
+        "sha": "867553b99a0db593b2ada27d51819aa15e56f864",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/867553b99a0db593b2ada27d51819aa15e56f864",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/867553b99a0db593b2ada27d51819aa15e56f864"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "478407bb73e3392146fd0057848bdf144463c3e7",
+    "node_id": "C_kwDOSC2AMdoAKDQ3ODQwN2JiNzNlMzM5MjE0NmZkMDA1Nzg0OGJkZjE0NDQ2M2MzZTc",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/478407bb73e3392146fd0057848bdf144463c3e7",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/478407bb73e3392146fd0057848bdf144463c3e7",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-27T14:24:03Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-27T14:24:03Z"
+    },
+    "tree": {
+      "sha": "58ae16c98879d370e403d0021914f4d54f6072b0",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/58ae16c98879d370e403d0021914f4d54f6072b0"
+    },
+    "message": "Use shared fingerprint runtime support",
+    "parents": [
+      {
+        "sha": "06f4a06c251d6fd88f7dece3f0ca1ec2a0fc1dd0",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/06f4a06c251d6fd88f7dece3f0ca1ec2a0fc1dd0",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/06f4a06c251d6fd88f7dece3f0ca1ec2a0fc1dd0"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "0c615aa0db6a45b1b626b1888d8d6b27ca9062ca",
+    "node_id": "C_kwDOSC2AMdoAKDBjNjE1YWEwZGI2YTQ1YjFiNjI2YjE4ODhkOGQ2YjI3Y2E5MDYyY2E",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/0c615aa0db6a45b1b626b1888d8d6b27ca9062ca",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/0c615aa0db6a45b1b626b1888d8d6b27ca9062ca",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-27T14:24:16Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-27T14:24:16Z"
+    },
+    "tree": {
+      "sha": "31730184894690624d2e8fbaf93e89ced5ada5a1",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/31730184894690624d2e8fbaf93e89ced5ada5a1"
+    },
+    "message": "Test fingerprint runtime support boundary",
+    "parents": [
+      {
+        "sha": "478407bb73e3392146fd0057848bdf144463c3e7",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/478407bb73e3392146fd0057848bdf144463c3e7",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/478407bb73e3392146fd0057848bdf144463c3e7"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "f55a18d56f8e1c3b1a8e2f096010e7042ca4f6ff",
+    "node_id": "C_kwDOSC2AMdoAKGY1NWExOGQ1NmY4ZTFjM2IxYThlMmYwOTYwMTBlNzA0MmNhNGY2ZmY",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/f55a18d56f8e1c3b1a8e2f096010e7042ca4f6ff",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/f55a18d56f8e1c3b1a8e2f096010e7042ca4f6ff",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-27T14:24:27Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-27T14:24:27Z"
+    },
+    "tree": {
+      "sha": "2e394151646b8e728126d7c0b6451899af22c706",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/2e394151646b8e728126d7c0b6451899af22c706"
+    },
+    "message": "Remove standalone fingerprint application entrypoint",
+    "parents": [
+      {
+        "sha": "0c615aa0db6a45b1b626b1888d8d6b27ca9062ca",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/0c615aa0db6a45b1b626b1888d8d6b27ca9062ca",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/0c615aa0db6a45b1b626b1888d8d6b27ca9062ca"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "096c84659a1cd9673b4d7c776d3642972235d24a",
+    "node_id": "C_kwDOSC2AMdoAKDA5NmM4NDY1OWExY2Q5NjczYjRkN2M3NzZkMzY0Mjk3MjIzNWQyNGE",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/096c84659a1cd9673b4d7c776d3642972235d24a",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/096c84659a1cd9673b4d7c776d3642972235d24a",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-27T14:24:35Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-27T14:24:35Z"
+    },
+    "tree": {
+      "sha": "a5234e30853190e67d86cdb943a22cbd133b9218",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/a5234e30853190e67d86cdb943a22cbd133b9218"
+    },
+    "message": "Remove standalone fingerprint load application entrypoint",
+    "parents": [
+      {
+        "sha": "f55a18d56f8e1c3b1a8e2f096010e7042ca4f6ff",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/f55a18d56f8e1c3b1a8e2f096010e7042ca4f6ff",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/f55a18d56f8e1c3b1a8e2f096010e7042ca4f6ff"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "1848e31496afc723d438b7bafe7e5e2c46d91b1b",
+    "node_id": "C_kwDOSC2AMdoAKDE4NDhlMzE0OTZhZmM3MjNkNDM4YjdiYWZlN2U1ZTJjNDZkOTFiMWI",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/1848e31496afc723d438b7bafe7e5e2c46d91b1b",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/1848e31496afc723d438b7bafe7e5e2c46d91b1b",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-27T14:24:44Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-27T14:24:44Z"
+    },
+    "tree": {
+      "sha": "a27036de7062b712c26aa27d8f8bf7593b7dadbe",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/a27036de7062b712c26aa27d8f8bf7593b7dadbe"
+    },
+    "message": "Remove legacy Playwright test application entrypoint",
+    "parents": [
+      {
+        "sha": "096c84659a1cd9673b4d7c776d3642972235d24a",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/096c84659a1cd9673b4d7c776d3642972235d24a",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/096c84659a1cd9673b4d7c776d3642972235d24a"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "id": 30110119681,
+    "node_id": "ME_lADOSC2AMc8AAAABOgk-Tc8AAAAHArP3AQ",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/issues/events/30110119681",
+    "actor": {
+      "login": "jedreekPrograms",
+      "id": 221845274,
+      "node_id": "U_kgDODTkXGg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221845274?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jedreekPrograms",
+      "html_url": "https://github.com/jedreekPrograms",
+      "followers_url": "https://api.github.com/users/jedreekPrograms/followers",
+      "following_url": "https://api.github.com/users/jedreekPrograms/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jedreekPrograms/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jedreekPrograms/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jedreekPrograms/subscriptions",
+      "organizations_url": "https://api.github.com/users/jedreekPrograms/orgs",
+      "repos_url": "https://api.github.com/users/jedreekPrograms/repos",
+      "events_url": "https://api.github.com/users/jedreekPrograms/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jedreekPrograms/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "event": "merged",
+    "commit_id": "c5dd521ee6603dc15300c075d757b03eeb96b046",
+    "commit_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/commits/c5dd521ee6603dc15300c075d757b03eeb96b046",
+    "created_at": "2026-08-27T14:27:42Z",
+    "performed_via_github_app": null
+  },
+  {
+    "id": 30110119822,
+    "node_id": "CE_lADOSC2AMc8AAAABOgk-Tc8AAAAHArP3jg",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/issues/events/30110119822",
+    "actor": {
+      "login": "jedreekPrograms",
+      "id": 221845274,
+      "node_id": "U_kgDODTkXGg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221845274?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jedreekPrograms",
+      "html_url": "https://github.com/jedreekPrograms",
+      "followers_url": "https://api.github.com/users/jedreekPrograms/followers",
+      "following_url": "https://api.github.com/users/jedreekPrograms/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jedreekPrograms/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jedreekPrograms/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jedreekPrograms/subscriptions",
+      "organizations_url": "https://api.github.com/users/jedreekPrograms/orgs",
+      "repos_url": "https://api.github.com/users/jedreekPrograms/repos",
+      "events_url": "https://api.github.com/users/jedreekPrograms/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jedreekPrograms/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "event": "closed",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2026-08-27T14:27:42Z",
+    "state_reason": null,
+    "intent": null,
+    "performed_via_github_app": null
+  }
+]

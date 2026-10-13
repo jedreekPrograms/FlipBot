@@ -1,0 +1,318 @@
+[
+  {
+    "sha": "28b0b0f4ced4b1aa2bed2c563c22f19573545b54",
+    "node_id": "C_kwDOSC2AMdoAKDI4YjBiMGY0Y2VkNGIxYWEyYmVkMmM1NjNjMjJmMTk1NzM1NDViNTQ",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/28b0b0f4ced4b1aa2bed2c563c22f19573545b54",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/28b0b0f4ced4b1aa2bed2c563c22f19573545b54",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-29T16:16:39Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-29T16:16:39Z"
+    },
+    "tree": {
+      "sha": "5e91bbd8895e32c3a3382fd31c594399be28fc0d",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/5e91bbd8895e32c3a3382fd31c594399be28fc0d"
+    },
+    "message": "Add rolling negotiation capacity planner",
+    "parents": [
+      {
+        "sha": "939b006ddb0ab87995712a241e8315645d8c8baf",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/939b006ddb0ab87995712a241e8315645d8c8baf",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/939b006ddb0ab87995712a241e8315645d8c8baf"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "bce14ce13c808497791b0c152d9f9fba20c8f37b",
+    "node_id": "C_kwDOSC2AMdoAKGJjZTE0Y2UxM2M4MDg0OTc3OTFiMGMxNTJkOWY5ZmJhMjBjOGYzN2I",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/bce14ce13c808497791b0c152d9f9fba20c8f37b",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/bce14ce13c808497791b0c152d9f9fba20c8f37b",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-29T16:16:56Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-29T16:16:56Z"
+    },
+    "tree": {
+      "sha": "23741b31638901bec92e796a07e73122cfc91b86",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/23741b31638901bec92e796a07e73122cfc91b86"
+    },
+    "message": "Use rolling profiles for negotiation capacity",
+    "parents": [
+      {
+        "sha": "28b0b0f4ced4b1aa2bed2c563c22f19573545b54",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/28b0b0f4ced4b1aa2bed2c563c22f19573545b54",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/28b0b0f4ced4b1aa2bed2c563c22f19573545b54"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "2990398b1bc64d154add3f437cb335bb279be3c5",
+    "node_id": "C_kwDOSC2AMdoAKDI5OTAzOThiMWJjNjRkMTU0YWRkM2Y0MzdjYjMzNWJiMjc5YmUzYzU",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/2990398b1bc64d154add3f437cb335bb279be3c5",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/2990398b1bc64d154add3f437cb335bb279be3c5",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-29T16:18:05Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-29T16:18:05Z"
+    },
+    "tree": {
+      "sha": "284cb8bd8ef5ef5fa1558c7abb3cd6e4c0cc6bc5",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/284cb8bd8ef5ef5fa1558c7abb3cd6e4c0cc6bc5"
+    },
+    "message": "Test rolling negotiation capacity and hard quota boundaries",
+    "parents": [
+      {
+        "sha": "bce14ce13c808497791b0c152d9f9fba20c8f37b",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/bce14ce13c808497791b0c152d9f9fba20c8f37b",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/bce14ce13c808497791b0c152d9f9fba20c8f37b"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "98b14f45f05493c8999cf71ed13f32e6e4eb40b7",
+    "node_id": "C_kwDOSC2AMdoAKDk4YjE0ZjQ1ZjA1NDkzYzg5OTljZjcxZWQxM2YzMmU2ZTRlYjQwYjc",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/98b14f45f05493c8999cf71ed13f32e6e4eb40b7",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/98b14f45f05493c8999cf71ed13f32e6e4eb40b7",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-29T16:18:39Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-29T16:18:39Z"
+    },
+    "tree": {
+      "sha": "22a4225007b6e4fd265dad42f5ca8f46cb50e05b",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/22a4225007b6e4fd265dad42f5ca8f46cb50e05b"
+    },
+    "message": "Add time-aware rolling capacity tests",
+    "parents": [
+      {
+        "sha": "2990398b1bc64d154add3f437cb335bb279be3c5",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/2990398b1bc64d154add3f437cb335bb279be3c5",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/2990398b1bc64d154add3f437cb335bb279be3c5"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "ecb0bfe621dbb6dea147904432abed356640de9d",
+    "node_id": "C_kwDOSC2AMdoAKGVjYjBiZmU2MjFkYmI2ZGVhMTQ3OTA0NDMyYWJlZDM1NjY0MGRlOWQ",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/ecb0bfe621dbb6dea147904432abed356640de9d",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/ecb0bfe621dbb6dea147904432abed356640de9d",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-29T16:20:39Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-29T16:20:39Z"
+    },
+    "tree": {
+      "sha": "21f80b0f059e28a6b396cfcfde6eece5ab7a0cad",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/21f80b0f059e28a6b396cfcfde6eece5ab7a0cad"
+    },
+    "message": "Fix Spring injection for rolling planner",
+    "parents": [
+      {
+        "sha": "98b14f45f05493c8999cf71ed13f32e6e4eb40b7",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/98b14f45f05493c8999cf71ed13f32e6e4eb40b7",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/98b14f45f05493c8999cf71ed13f32e6e4eb40b7"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "a5c083c75986bb1a6ee9146045f1120b228f1d7a",
+    "node_id": "C_kwDOSC2AMdoAKGE1YzA4M2M3NTk4NmJiMWE2ZWU5MTQ2MDQ1ZjExMjBiMjI4ZjFkN2E",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/a5c083c75986bb1a6ee9146045f1120b228f1d7a",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/a5c083c75986bb1a6ee9146045f1120b228f1d7a",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-29T16:23:54Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-29T16:23:54Z"
+    },
+    "tree": {
+      "sha": "0ae4cf84005b0cd1ccac3646578021b4731321ba",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/0ae4cf84005b0cd1ccac3646578021b4731321ba"
+    },
+    "message": "Fix rolling planner import formatting",
+    "parents": [
+      {
+        "sha": "ecb0bfe621dbb6dea147904432abed356640de9d",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/ecb0bfe621dbb6dea147904432abed356640de9d",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/ecb0bfe621dbb6dea147904432abed356640de9d"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "875bb06a19c730bcefadb8ad63e90ef5891b71bb",
+    "node_id": "C_kwDOSC2AMdoAKDg3NWJiMDZhMTljNzMwYmNlZmFkYjhhZDYzZTkwZWY1ODkxYjcxYmI",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/875bb06a19c730bcefadb8ad63e90ef5891b71bb",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/875bb06a19c730bcefadb8ad63e90ef5891b71bb",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-29T16:24:12Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-29T16:24:12Z"
+    },
+    "tree": {
+      "sha": "b72879d7f0a49037fb2b83769c48241874e72c97",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/b72879d7f0a49037fb2b83769c48241874e72c97"
+    },
+    "message": "Mark production planner constructor for Spring",
+    "parents": [
+      {
+        "sha": "a5c083c75986bb1a6ee9146045f1120b228f1d7a",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/a5c083c75986bb1a6ee9146045f1120b228f1d7a",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/a5c083c75986bb1a6ee9146045f1120b228f1d7a"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "id": 32096232668,
+    "node_id": "ME_lADOSC2AMc8AAAABT8oTsc8AAAAHeRWk3A",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/issues/events/32096232668",
+    "actor": {
+      "login": "jedreekPrograms",
+      "id": 221845274,
+      "node_id": "U_kgDODTkXGg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221845274?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jedreekPrograms",
+      "html_url": "https://github.com/jedreekPrograms",
+      "followers_url": "https://api.github.com/users/jedreekPrograms/followers",
+      "following_url": "https://api.github.com/users/jedreekPrograms/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jedreekPrograms/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jedreekPrograms/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jedreekPrograms/subscriptions",
+      "organizations_url": "https://api.github.com/users/jedreekPrograms/orgs",
+      "repos_url": "https://api.github.com/users/jedreekPrograms/repos",
+      "events_url": "https://api.github.com/users/jedreekPrograms/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jedreekPrograms/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "event": "merged",
+    "commit_id": "81c738a50cc63c281455ee532a38ea741298ef85",
+    "commit_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/commits/81c738a50cc63c281455ee532a38ea741298ef85",
+    "created_at": "2026-09-29T16:26:16Z",
+    "performed_via_github_app": null
+  },
+  {
+    "id": 32096232780,
+    "node_id": "CE_lADOSC2AMc8AAAABT8oTsc8AAAAHeRWlTA",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/issues/events/32096232780",
+    "actor": {
+      "login": "jedreekPrograms",
+      "id": 221845274,
+      "node_id": "U_kgDODTkXGg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221845274?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jedreekPrograms",
+      "html_url": "https://github.com/jedreekPrograms",
+      "followers_url": "https://api.github.com/users/jedreekPrograms/followers",
+      "following_url": "https://api.github.com/users/jedreekPrograms/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jedreekPrograms/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jedreekPrograms/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jedreekPrograms/subscriptions",
+      "organizations_url": "https://api.github.com/users/jedreekPrograms/orgs",
+      "repos_url": "https://api.github.com/users/jedreekPrograms/repos",
+      "events_url": "https://api.github.com/users/jedreekPrograms/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jedreekPrograms/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "event": "closed",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2026-09-29T16:26:16Z",
+    "state_reason": null,
+    "intent": null,
+    "performed_via_github_app": null
+  }
+]

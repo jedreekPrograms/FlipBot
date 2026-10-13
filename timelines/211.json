@@ -1,0 +1,138 @@
+[
+  {
+    "sha": "f5ef07286054a6bd43bdaaebdbb3331941e8a9dd",
+    "node_id": "C_kwDOSC2AMdoAKGY1ZWYwNzI4NjA1NGE2YmQ0M2JkYWFlYmRiYjMzMzE5NDFlOGE5ZGQ",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/f5ef07286054a6bd43bdaaebdbb3331941e8a9dd",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/f5ef07286054a6bd43bdaaebdbb3331941e8a9dd",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-15T10:42:45Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-15T10:42:45Z"
+    },
+    "tree": {
+      "sha": "bf2edcddbc6a4f32fc36f0431ba401a07ba036f6",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/bf2edcddbc6a4f32fc36f0431ba401a07ba036f6"
+    },
+    "message": "refactor: share bounded HTTP transport for raw PATCH JSON",
+    "parents": [
+      {
+        "sha": "8cfdad863fcbb4c581629793c900eec78b62077e",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/8cfdad863fcbb4c581629793c900eec78b62077e",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/8cfdad863fcbb4c581629793c900eec78b62077e"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "e54ea9155993df6901cfc3d77ece8bcf2bb437ae",
+    "node_id": "C_kwDOSC2AMdoAKGU1NGVhOTE1NTk5M2RmNjkwMWNmYzNkNzdlY2U4YmNmMmJiNDM3YWU",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/e54ea9155993df6901cfc3d77ece8bcf2bb437ae",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/e54ea9155993df6901cfc3d77ece8bcf2bb437ae",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-15T10:43:04Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-15T10:43:04Z"
+    },
+    "tree": {
+      "sha": "7a1ebb14bb2b624fbd32f30caa0dd2618aa4bd24",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/7a1ebb14bb2b624fbd32f30caa0dd2618aa4bd24"
+    },
+    "message": "refactor: reuse shared backend transport for negotiation activity",
+    "parents": [
+      {
+        "sha": "f5ef07286054a6bd43bdaaebdbb3331941e8a9dd",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/f5ef07286054a6bd43bdaaebdbb3331941e8a9dd",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/f5ef07286054a6bd43bdaaebdbb3331941e8a9dd"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "id": 31166117750,
+    "node_id": "ME_lADOSC2AMc8AAAABRX4aPc8AAAAHQaU3dg",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/issues/events/31166117750",
+    "actor": {
+      "login": "jedreekPrograms",
+      "id": 221845274,
+      "node_id": "U_kgDODTkXGg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221845274?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jedreekPrograms",
+      "html_url": "https://github.com/jedreekPrograms",
+      "followers_url": "https://api.github.com/users/jedreekPrograms/followers",
+      "following_url": "https://api.github.com/users/jedreekPrograms/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jedreekPrograms/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jedreekPrograms/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jedreekPrograms/subscriptions",
+      "organizations_url": "https://api.github.com/users/jedreekPrograms/orgs",
+      "repos_url": "https://api.github.com/users/jedreekPrograms/repos",
+      "events_url": "https://api.github.com/users/jedreekPrograms/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jedreekPrograms/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "event": "merged",
+    "commit_id": "0d17c53d7b79cf7e5d6e7f50481068c58c25b25b",
+    "commit_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/commits/0d17c53d7b79cf7e5d6e7f50481068c58c25b25b",
+    "created_at": "2026-09-15T10:44:58Z",
+    "performed_via_github_app": null
+  },
+  {
+    "id": 31166117827,
+    "node_id": "CE_lADOSC2AMc8AAAABRX4aPc8AAAAHQaU3ww",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/issues/events/31166117827",
+    "actor": {
+      "login": "jedreekPrograms",
+      "id": 221845274,
+      "node_id": "U_kgDODTkXGg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221845274?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jedreekPrograms",
+      "html_url": "https://github.com/jedreekPrograms",
+      "followers_url": "https://api.github.com/users/jedreekPrograms/followers",
+      "following_url": "https://api.github.com/users/jedreekPrograms/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jedreekPrograms/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jedreekPrograms/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jedreekPrograms/subscriptions",
+      "organizations_url": "https://api.github.com/users/jedreekPrograms/orgs",
+      "repos_url": "https://api.github.com/users/jedreekPrograms/repos",
+      "events_url": "https://api.github.com/users/jedreekPrograms/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jedreekPrograms/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "event": "closed",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2026-09-15T10:44:58Z",
+    "state_reason": null,
+    "intent": null,
+    "performed_via_github_app": null
+  }
+]

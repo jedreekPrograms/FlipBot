@@ -1,0 +1,210 @@
+[
+  {
+    "sha": "350ab61f6712a35ae93a91db4e9b4cfa57485b9c",
+    "node_id": "C_kwDOSC2AMdoAKDM1MGFiNjFmNjcxMmEzNWFlOTNhOTFkYjRlOWI0Y2ZhNTc0ODViOWM",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/350ab61f6712a35ae93a91db4e9b4cfa57485b9c",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/350ab61f6712a35ae93a91db4e9b4cfa57485b9c",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-27T12:00:58Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-27T12:00:58Z"
+    },
+    "tree": {
+      "sha": "650d8bc88f845179418b6e472b3d9c421963e8cb",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/650d8bc88f845179418b6e472b3d9c421963e8cb"
+    },
+    "message": "Start controlled test modules from main Playwright app",
+    "parents": [
+      {
+        "sha": "97ffba72dab55a72c82cdad185987135953b201f",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/97ffba72dab55a72c82cdad185987135953b201f",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/97ffba72dab55a72c82cdad185987135953b201f"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "e25c2fb57b5956a376f3f114b5249c85a83236e6",
+    "node_id": "C_kwDOSC2AMdoAKGUyNWMyZmI1N2I1OTU2YTM3NmYzZjExNGI1MjQ5Yzg1YTgzMjM2ZTY",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/e25c2fb57b5956a376f3f114b5249c85a83236e6",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/e25c2fb57b5956a376f3f114b5249c85a83236e6",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-27T12:01:15Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-27T12:01:15Z"
+    },
+    "tree": {
+      "sha": "d433dd5df3b934210f8c5c8fd5b07256032e0e3b",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/d433dd5df3b934210f8c5c8fd5b07256032e0e3b"
+    },
+    "message": "Add unified controlled test module manager",
+    "parents": [
+      {
+        "sha": "350ab61f6712a35ae93a91db4e9b4cfa57485b9c",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/350ab61f6712a35ae93a91db4e9b4cfa57485b9c",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/350ab61f6712a35ae93a91db4e9b4cfa57485b9c"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "6b2b22450206b75ead46b2a3c02b17441fd3775d",
+    "node_id": "C_kwDOSC2AMdoAKDZiMmIyMjQ1MDIwNmI3NWVhZDQ2YjJhM2MwMmIxNzQ0MWZkMzc3NWQ",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/6b2b22450206b75ead46b2a3c02b17441fd3775d",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/6b2b22450206b75ead46b2a3c02b17441fd3775d",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-27T12:01:38Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-27T12:01:38Z"
+    },
+    "tree": {
+      "sha": "6bd3a6a0ea18c7a8e7856a7412a11f5507789b94",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/6bd3a6a0ea18c7a8e7856a7412a11f5507789b94"
+    },
+    "message": "Keep controlled fleet separate from normal worker contexts",
+    "parents": [
+      {
+        "sha": "e25c2fb57b5956a376f3f114b5249c85a83236e6",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/e25c2fb57b5956a376f3f114b5249c85a83236e6",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/e25c2fb57b5956a376f3f114b5249c85a83236e6"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "2af8836fade68b9c846fe3987ef3d9057e68610e",
+    "node_id": "C_kwDOSC2AMdoAKDJhZjg4MzZmYWRlNjhiOWM4NDZmZTM5ODdlZjNkOTA1N2U2ODYxMGU",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/2af8836fade68b9c846fe3987ef3d9057e68610e",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/2af8836fade68b9c846fe3987ef3d9057e68610e",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-27T12:03:23Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-27T12:03:23Z"
+    },
+    "tree": {
+      "sha": "a67cee10595e24eff62765d3ce8d8119420bb7cd",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/a67cee10595e24eff62765d3ce8d8119420bb7cd"
+    },
+    "message": "Fail closed without blocking main runtime for invalid probe targets",
+    "parents": [
+      {
+        "sha": "6b2b22450206b75ead46b2a3c02b17441fd3775d",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/6b2b22450206b75ead46b2a3c02b17441fd3775d",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/6b2b22450206b75ead46b2a3c02b17441fd3775d"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "id": 30101933525,
+    "node_id": "ME_lADOSC2AMc8AAAABOfSTGs8AAAAHAjcN1Q",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/issues/events/30101933525",
+    "actor": {
+      "login": "jedreekPrograms",
+      "id": 221845274,
+      "node_id": "U_kgDODTkXGg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221845274?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jedreekPrograms",
+      "html_url": "https://github.com/jedreekPrograms",
+      "followers_url": "https://api.github.com/users/jedreekPrograms/followers",
+      "following_url": "https://api.github.com/users/jedreekPrograms/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jedreekPrograms/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jedreekPrograms/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jedreekPrograms/subscriptions",
+      "organizations_url": "https://api.github.com/users/jedreekPrograms/orgs",
+      "repos_url": "https://api.github.com/users/jedreekPrograms/repos",
+      "events_url": "https://api.github.com/users/jedreekPrograms/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jedreekPrograms/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "event": "merged",
+    "commit_id": "9603a176ae5e7b0ca441296919afa3f5235f18f5",
+    "commit_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/commits/9603a176ae5e7b0ca441296919afa3f5235f18f5",
+    "created_at": "2026-08-27T12:06:11Z",
+    "performed_via_github_app": null
+  },
+  {
+    "id": 30101933726,
+    "node_id": "CE_lADOSC2AMc8AAAABOfSTGs8AAAAHAjcOng",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/issues/events/30101933726",
+    "actor": {
+      "login": "jedreekPrograms",
+      "id": 221845274,
+      "node_id": "U_kgDODTkXGg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221845274?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jedreekPrograms",
+      "html_url": "https://github.com/jedreekPrograms",
+      "followers_url": "https://api.github.com/users/jedreekPrograms/followers",
+      "following_url": "https://api.github.com/users/jedreekPrograms/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jedreekPrograms/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jedreekPrograms/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jedreekPrograms/subscriptions",
+      "organizations_url": "https://api.github.com/users/jedreekPrograms/orgs",
+      "repos_url": "https://api.github.com/users/jedreekPrograms/repos",
+      "events_url": "https://api.github.com/users/jedreekPrograms/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jedreekPrograms/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "event": "closed",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2026-08-27T12:06:11Z",
+    "state_reason": null,
+    "intent": null,
+    "performed_via_github_app": null
+  }
+]

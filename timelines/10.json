@@ -1,0 +1,396 @@
+[
+  {
+    "sha": "6a07be21e91e6cb66343010eed2dbecbf0677ee3",
+    "node_id": "C_kwDOSC2AMdoAKDZhMDdiZTIxZTkxZTZjYjY2MzQzMDEwZWVkMmRiZWNiZjA2NzdlZTM",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/6a07be21e91e6cb66343010eed2dbecbf0677ee3",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/6a07be21e91e6cb66343010eed2dbecbf0677ee3",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-13T01:05:01Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-13T01:05:01Z"
+    },
+    "tree": {
+      "sha": "2b06eada317c081676a96a3b0399fcf1055bf7d3",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/2b06eada317c081676a96a3b0399fcf1055bf7d3"
+    },
+    "message": "Carlisle: add runtime dashboard bot DTO",
+    "parents": [
+      {
+        "sha": "291a86b5bdc87bd4e6474b1892d498bc427873c6",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/291a86b5bdc87bd4e6474b1892d498bc427873c6",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/291a86b5bdc87bd4e6474b1892d498bc427873c6"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "7b52eac302a2b368cf987f6060ee58a7d3097e53",
+    "node_id": "C_kwDOSC2AMdoAKDdiNTJlYWMzMDJhMmIzNjhjZjk4N2Y2MDYwZWU1OGE3ZDMwOTdlNTM",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/7b52eac302a2b368cf987f6060ee58a7d3097e53",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/7b52eac302a2b368cf987f6060ee58a7d3097e53",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-13T01:05:09Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-13T01:05:09Z"
+    },
+    "tree": {
+      "sha": "533012539bdd64885eb1220be38accf0ec11623b",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/533012539bdd64885eb1220be38accf0ec11623b"
+    },
+    "message": "Carlisle: add runtime dashboard response DTO",
+    "parents": [
+      {
+        "sha": "6a07be21e91e6cb66343010eed2dbecbf0677ee3",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/6a07be21e91e6cb66343010eed2dbecbf0677ee3",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/6a07be21e91e6cb66343010eed2dbecbf0677ee3"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "f5a8cfd2b85e2de8dbf3b9e599324d95b7bd3a7f",
+    "node_id": "C_kwDOSC2AMdoAKGY1YThjZmQyYjg1ZTJkZThkYmYzYjllNTk5MzI0ZDk1YjdiZDNhN2Y",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/f5a8cfd2b85e2de8dbf3b9e599324d95b7bd3a7f",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/f5a8cfd2b85e2de8dbf3b9e599324d95b7bd3a7f",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-13T01:05:23Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-13T01:05:23Z"
+    },
+    "tree": {
+      "sha": "3d9f0dce4a8493c2ed73c58cc825268943f2b312",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/3d9f0dce4a8493c2ed73c58cc825268943f2b312"
+    },
+    "message": "Carlisle: add runtime dashboard aggregation service",
+    "parents": [
+      {
+        "sha": "7b52eac302a2b368cf987f6060ee58a7d3097e53",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/7b52eac302a2b368cf987f6060ee58a7d3097e53",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/7b52eac302a2b368cf987f6060ee58a7d3097e53"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "cf41283fb5b3a21b2cc179df0f0cb5f316b6123a",
+    "node_id": "C_kwDOSC2AMdoAKGNmNDEyODNmYjViM2EyMWIyY2MxNzlkZjBmMGNiNWYzMTZiNjEyM2E",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/cf41283fb5b3a21b2cc179df0f0cb5f316b6123a",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/cf41283fb5b3a21b2cc179df0f0cb5f316b6123a",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-13T01:05:32Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-13T01:05:32Z"
+    },
+    "tree": {
+      "sha": "9ec57f1bb25ffdf48240e6c394a2c931aa33eb5c",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/9ec57f1bb25ffdf48240e6c394a2c931aa33eb5c"
+    },
+    "message": "Carlisle: expose runtime dashboard endpoint",
+    "parents": [
+      {
+        "sha": "f5a8cfd2b85e2de8dbf3b9e599324d95b7bd3a7f",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/f5a8cfd2b85e2de8dbf3b9e599324d95b7bd3a7f",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/f5a8cfd2b85e2de8dbf3b9e599324d95b7bd3a7f"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "88440fce2f910f91466ab7391da63df11bc504dc",
+    "node_id": "C_kwDOSC2AMdoAKDg4NDQwZmNlMmY5MTBmOTE0NjZhYjczOTFkYTYzZGYxMWJjNTA0ZGM",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/88440fce2f910f91466ab7391da63df11bc504dc",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/88440fce2f910f91466ab7391da63df11bc504dc",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-13T01:05:50Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-13T01:05:50Z"
+    },
+    "tree": {
+      "sha": "61ace164b171b4a03a01c8fda0dcd1c615260afc",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/61ace164b171b4a03a01c8fda0dcd1c615260afc"
+    },
+    "message": "Carlisle: add dashboard frontend API",
+    "parents": [
+      {
+        "sha": "cf41283fb5b3a21b2cc179df0f0cb5f316b6123a",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/cf41283fb5b3a21b2cc179df0f0cb5f316b6123a",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/cf41283fb5b3a21b2cc179df0f0cb5f316b6123a"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "55e0ba3c41fb9733a18ea9714a62ee44df0638d0",
+    "node_id": "C_kwDOSC2AMdoAKDU1ZTBiYTNjNDFmYjk3MzNhMThlYTk3MTRhNjJlZTQ0ZGYwNjM4ZDA",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/55e0ba3c41fb9733a18ea9714a62ee44df0638d0",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/55e0ba3c41fb9733a18ea9714a62ee44df0638d0",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-13T01:06:24Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-13T01:06:24Z"
+    },
+    "tree": {
+      "sha": "b1d9a9a702a26e70eb39f3816e2cd1a3a9782ba2",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/b1d9a9a702a26e70eb39f3816e2cd1a3a9782ba2"
+    },
+    "message": "Carlisle: add runtime dashboard page",
+    "parents": [
+      {
+        "sha": "88440fce2f910f91466ab7391da63df11bc504dc",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/88440fce2f910f91466ab7391da63df11bc504dc",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/88440fce2f910f91466ab7391da63df11bc504dc"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "e2cae13b834062c0ca64f98a0bdc758620140383",
+    "node_id": "C_kwDOSC2AMdoAKGUyY2FlMTNiODM0MDYyYzBjYTY0Zjk4YTBiZGM3NTg2MjAxNDAzODM",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/e2cae13b834062c0ca64f98a0bdc758620140383",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/e2cae13b834062c0ca64f98a0bdc758620140383",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-13T01:06:38Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-13T01:06:38Z"
+    },
+    "tree": {
+      "sha": "591681ff4e4ba5348292c8fd0efa76223d09f34e",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/591681ff4e4ba5348292c8fd0efa76223d09f34e"
+    },
+    "message": "Carlisle: add runtime dashboard route",
+    "parents": [
+      {
+        "sha": "55e0ba3c41fb9733a18ea9714a62ee44df0638d0",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/55e0ba3c41fb9733a18ea9714a62ee44df0638d0",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/55e0ba3c41fb9733a18ea9714a62ee44df0638d0"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "8b458e60530169aeb8307c9dab74e921920acb5a",
+    "node_id": "C_kwDOSC2AMdoAKDhiNDU4ZTYwNTMwMTY5YWViODMwN2M5ZGFiNzRlOTIxOTIwYWNiNWE",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/8b458e60530169aeb8307c9dab74e921920acb5a",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/8b458e60530169aeb8307c9dab74e921920acb5a",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-13T01:06:50Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-13T01:06:50Z"
+    },
+    "tree": {
+      "sha": "17f189344e185d9b28b920869977364f7f3ec299",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/17f189344e185d9b28b920869977364f7f3ec299"
+    },
+    "message": "Carlisle: add runtime dashboard navigation",
+    "parents": [
+      {
+        "sha": "e2cae13b834062c0ca64f98a0bdc758620140383",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/e2cae13b834062c0ca64f98a0bdc758620140383",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/e2cae13b834062c0ca64f98a0bdc758620140383"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "id": 4922532427,
+    "node_id": "PRR_kwDOSC2AMc8AAAABJWfiSw",
+    "user": {
+      "login": "jedreekPrograms",
+      "id": 221845274,
+      "node_id": "U_kgDODTkXGg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221845274?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jedreekPrograms",
+      "html_url": "https://github.com/jedreekPrograms",
+      "followers_url": "https://api.github.com/users/jedreekPrograms/followers",
+      "following_url": "https://api.github.com/users/jedreekPrograms/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jedreekPrograms/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jedreekPrograms/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jedreekPrograms/subscriptions",
+      "organizations_url": "https://api.github.com/users/jedreekPrograms/orgs",
+      "repos_url": "https://api.github.com/users/jedreekPrograms/repos",
+      "events_url": "https://api.github.com/users/jedreekPrograms/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jedreekPrograms/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "body": "Ev ok",
+    "commit_id": "8b458e60530169aeb8307c9dab74e921920acb5a",
+    "state": "commented",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/pull/10#pullrequestreview-4922532427",
+    "pull_request_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/pulls/10",
+    "_links": {
+      "html": {
+        "href": "https://github.com/jedreekPrograms/VintedOfferTracker/pull/10#pullrequestreview-4922532427"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/pulls/10"
+      }
+    },
+    "submitted_at": "2026-08-13T01:11:00Z",
+    "updated_at": "2026-08-13T01:11:00Z",
+    "author_association": "OWNER",
+    "event": "reviewed"
+  },
+  {
+    "id": 29373943329,
+    "node_id": "ME_lADOSC2AMc8AAAABMixevM8AAAAG1tLOIQ",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/issues/events/29373943329",
+    "actor": {
+      "login": "jedreekPrograms",
+      "id": 221845274,
+      "node_id": "U_kgDODTkXGg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221845274?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jedreekPrograms",
+      "html_url": "https://github.com/jedreekPrograms",
+      "followers_url": "https://api.github.com/users/jedreekPrograms/followers",
+      "following_url": "https://api.github.com/users/jedreekPrograms/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jedreekPrograms/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jedreekPrograms/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jedreekPrograms/subscriptions",
+      "organizations_url": "https://api.github.com/users/jedreekPrograms/orgs",
+      "repos_url": "https://api.github.com/users/jedreekPrograms/repos",
+      "events_url": "https://api.github.com/users/jedreekPrograms/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jedreekPrograms/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "event": "merged",
+    "commit_id": "f62e0c396343a5db812f241c35ebc95ba48add3d",
+    "commit_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/commits/f62e0c396343a5db812f241c35ebc95ba48add3d",
+    "created_at": "2026-08-13T01:11:11Z",
+    "performed_via_github_app": null
+  },
+  {
+    "id": 29373943353,
+    "node_id": "CE_lADOSC2AMc8AAAABMixevM8AAAAG1tLOOQ",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/issues/events/29373943353",
+    "actor": {
+      "login": "jedreekPrograms",
+      "id": 221845274,
+      "node_id": "U_kgDODTkXGg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221845274?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jedreekPrograms",
+      "html_url": "https://github.com/jedreekPrograms",
+      "followers_url": "https://api.github.com/users/jedreekPrograms/followers",
+      "following_url": "https://api.github.com/users/jedreekPrograms/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jedreekPrograms/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jedreekPrograms/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jedreekPrograms/subscriptions",
+      "organizations_url": "https://api.github.com/users/jedreekPrograms/orgs",
+      "repos_url": "https://api.github.com/users/jedreekPrograms/repos",
+      "events_url": "https://api.github.com/users/jedreekPrograms/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jedreekPrograms/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "event": "closed",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2026-08-13T01:11:11Z",
+    "state_reason": null,
+    "intent": null,
+    "performed_via_github_app": null
+  }
+]

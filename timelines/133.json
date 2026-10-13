@@ -1,0 +1,174 @@
+[
+  {
+    "sha": "a9f6bc811fe0c5d197f682ee187e7d28a36a3fc7",
+    "node_id": "C_kwDOSC2AMdoAKGE5ZjZiYzgxMWZlMGM1ZDE5N2Y2ODJlZTE4N2U3ZDI4YTM2YTNmYzc",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/a9f6bc811fe0c5d197f682ee187e7d28a36a3fc7",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/a9f6bc811fe0c5d197f682ee187e7d28a36a3fc7",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-02T16:41:47Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-02T16:41:47Z"
+    },
+    "tree": {
+      "sha": "61d417d675a79937336d69132bde4f08421da7ba",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/61d417d675a79937336d69132bde4f08421da7ba"
+    },
+    "message": "fix: reject Galaxy Tab backlog for phone targets",
+    "parents": [
+      {
+        "sha": "45956944f765d8d2f291d2f60b0bc2e95173b161",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/45956944f765d8d2f291d2f60b0bc2e95173b161",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/45956944f765d8d2f291d2f60b0bc2e95173b161"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "c4f87dba2ac873cd71b659b5afc1077639193a1b",
+    "node_id": "C_kwDOSC2AMdoAKGM0Zjg3ZGJhMmFjODczY2Q3MWI2NTliNWFmYzEwNzc2MzkxOTNhMWI",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/c4f87dba2ac873cd71b659b5afc1077639193a1b",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/c4f87dba2ac873cd71b659b5afc1077639193a1b",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-02T16:42:03Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-02T16:42:03Z"
+    },
+    "tree": {
+      "sha": "bb1b65e10798be9b59f6fd83f470171805acc71f",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/bb1b65e10798be9b59f6fd83f470171805acc71f"
+    },
+    "message": "test: cover stale Galaxy Tab backlog",
+    "parents": [
+      {
+        "sha": "a9f6bc811fe0c5d197f682ee187e7d28a36a3fc7",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/a9f6bc811fe0c5d197f682ee187e7d28a36a3fc7",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/a9f6bc811fe0c5d197f682ee187e7d28a36a3fc7"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "5f794cabf6b36d9635944455c2e6750d8cd2cbc6",
+    "node_id": "C_kwDOSC2AMdoAKDVmNzk0Y2FiZjZiMzZkOTYzNTk0NDQ1NWMyZTY3NTBkOGNkMmNiYzY",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/5f794cabf6b36d9635944455c2e6750d8cd2cbc6",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/5f794cabf6b36d9635944455c2e6750d8cd2cbc6",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-02T16:42:18Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-02T16:42:18Z"
+    },
+    "tree": {
+      "sha": "918f2f34e58ca29fb0f8d3eca613fe078ea751c4",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/918f2f34e58ca29fb0f8d3eca613fe078ea751c4"
+    },
+    "message": "test: reject Galaxy Tab backlog in target matcher",
+    "parents": [
+      {
+        "sha": "c4f87dba2ac873cd71b659b5afc1077639193a1b",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/c4f87dba2ac873cd71b659b5afc1077639193a1b",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/c4f87dba2ac873cd71b659b5afc1077639193a1b"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "id": 30430730664,
+    "node_id": "ME_lADOSC2AMc8AAAABPX4psM8AAAAHFdAZqA",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/issues/events/30430730664",
+    "actor": {
+      "login": "jedreekPrograms",
+      "id": 221845274,
+      "node_id": "U_kgDODTkXGg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221845274?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jedreekPrograms",
+      "html_url": "https://github.com/jedreekPrograms",
+      "followers_url": "https://api.github.com/users/jedreekPrograms/followers",
+      "following_url": "https://api.github.com/users/jedreekPrograms/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jedreekPrograms/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jedreekPrograms/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jedreekPrograms/subscriptions",
+      "organizations_url": "https://api.github.com/users/jedreekPrograms/orgs",
+      "repos_url": "https://api.github.com/users/jedreekPrograms/repos",
+      "events_url": "https://api.github.com/users/jedreekPrograms/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jedreekPrograms/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "event": "merged",
+    "commit_id": "2017b5aec8174d189aa41f04770b4adb529c11a7",
+    "commit_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/commits/2017b5aec8174d189aa41f04770b4adb529c11a7",
+    "created_at": "2026-09-02T16:44:08Z",
+    "performed_via_github_app": null
+  },
+  {
+    "id": 30430730777,
+    "node_id": "CE_lADOSC2AMc8AAAABPX4psM8AAAAHFdAaGQ",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/issues/events/30430730777",
+    "actor": {
+      "login": "jedreekPrograms",
+      "id": 221845274,
+      "node_id": "U_kgDODTkXGg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221845274?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jedreekPrograms",
+      "html_url": "https://github.com/jedreekPrograms",
+      "followers_url": "https://api.github.com/users/jedreekPrograms/followers",
+      "following_url": "https://api.github.com/users/jedreekPrograms/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jedreekPrograms/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jedreekPrograms/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jedreekPrograms/subscriptions",
+      "organizations_url": "https://api.github.com/users/jedreekPrograms/orgs",
+      "repos_url": "https://api.github.com/users/jedreekPrograms/repos",
+      "events_url": "https://api.github.com/users/jedreekPrograms/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jedreekPrograms/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "event": "closed",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2026-09-02T16:44:09Z",
+    "state_reason": null,
+    "intent": null,
+    "performed_via_github_app": null
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "sha": "1f9ad2a12d5a7ba58eaedd12a5941e66306cd144",
+    "node_id": "C_kwDOSC2AMdoAKDFmOWFkMmExMmQ1YTdiYTU4ZWFlZGQxMmE1OTQxZTY2MzA2Y2QxNDQ",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/1f9ad2a12d5a7ba58eaedd12a5941e66306cd144",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/1f9ad2a12d5a7ba58eaedd12a5941e66306cd144",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-25T22:51:02Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-25T22:51:02Z"
+    },
+    "tree": {
+      "sha": "6519293ccd061e6dded3cfffa09f076e66a99032",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/6519293ccd061e6dded3cfffa09f076e66a99032"
+    },
+    "message": "Port full-system integrity fixes onto current main\n\nRebase the durable negotiation claim, per-step read/unread follow-up policies, capacity corrections, targeting regressions, frontend wiring and tests from the prior audit onto the current post-#79 codebase. Renumber the audit migrations to V33/V34 to avoid collisions with the already-merged V30-V32 migrations.",
+    "parents": [
+      {
+        "sha": "5ef68004cb388cb0a22ef806d6f17dd0f3303f17",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/5ef68004cb388cb0a22ef806d6f17dd0f3303f17",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/5ef68004cb388cb0a22ef806d6f17dd0f3303f17"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "4af6dac8ab5f39da255c95de286b27d19c3f3a41",
+    "node_id": "C_kwDOSC2AMdoAKDRhZjZkYWM4YWI1ZjM5ZGEyNTVjOTVkZTI4NmIyN2QxOWMzZjNhNDE",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/4af6dac8ab5f39da255c95de286b27d19c3f3a41",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/4af6dac8ab5f39da255c95de286b27d19c3f3a41",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-25T22:51:42Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-25T22:51:42Z"
+    },
+    "tree": {
+      "sha": "314ead72e18daf029778770e72c19bea7899b53a",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/314ead72e18daf029778770e72c19bea7899b53a"
+    },
+    "message": "Test audit migrations against PostgreSQL",
+    "parents": [
+      {
+        "sha": "1f9ad2a12d5a7ba58eaedd12a5941e66306cd144",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/1f9ad2a12d5a7ba58eaedd12a5941e66306cd144",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/1f9ad2a12d5a7ba58eaedd12a5941e66306cd144"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "id": 30010373730,
+    "node_id": "ME_lADOSC2AMc8AAAABOQL9Bs8AAAAG_MH2Yg",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/issues/events/30010373730",
+    "actor": {
+      "login": "jedreekPrograms",
+      "id": 221845274,
+      "node_id": "U_kgDODTkXGg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221845274?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jedreekPrograms",
+      "html_url": "https://github.com/jedreekPrograms",
+      "followers_url": "https://api.github.com/users/jedreekPrograms/followers",
+      "following_url": "https://api.github.com/users/jedreekPrograms/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jedreekPrograms/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jedreekPrograms/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jedreekPrograms/subscriptions",
+      "organizations_url": "https://api.github.com/users/jedreekPrograms/orgs",
+      "repos_url": "https://api.github.com/users/jedreekPrograms/repos",
+      "events_url": "https://api.github.com/users/jedreekPrograms/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jedreekPrograms/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "event": "merged",
+    "commit_id": "288095f4ca27a1aecf4a62f92fb622fa8abf3cf7",
+    "commit_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/commits/288095f4ca27a1aecf4a62f92fb622fa8abf3cf7",
+    "created_at": "2026-08-25T22:53:51Z",
+    "performed_via_github_app": null
+  },
+  {
+    "id": 30010373777,
+    "node_id": "CE_lADOSC2AMc8AAAABOQL9Bs8AAAAG_MH2kQ",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/issues/events/30010373777",
+    "actor": {
+      "login": "jedreekPrograms",
+      "id": 221845274,
+      "node_id": "U_kgDODTkXGg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221845274?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jedreekPrograms",
+      "html_url": "https://github.com/jedreekPrograms",
+      "followers_url": "https://api.github.com/users/jedreekPrograms/followers",
+      "following_url": "https://api.github.com/users/jedreekPrograms/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jedreekPrograms/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jedreekPrograms/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jedreekPrograms/subscriptions",
+      "organizations_url": "https://api.github.com/users/jedreekPrograms/orgs",
+      "repos_url": "https://api.github.com/users/jedreekPrograms/repos",
+      "events_url": "https://api.github.com/users/jedreekPrograms/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jedreekPrograms/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "event": "closed",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2026-08-25T22:53:51Z",
+    "state_reason": null,
+    "intent": null,
+    "performed_via_github_app": null
+  }
+]

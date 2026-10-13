@@ -1,0 +1,2064 @@
+[
+  {
+    "sha": "3fa5b9d72c6375363ca5ec33d33516f1b62a2912",
+    "node_id": "C_kwDOSC2AMdoAKDNmYTViOWQ3MmM2Mzc1MzYzY2E1ZWMzM2QzMzUxNmYxYjYyYTI5MTI",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/3fa5b9d72c6375363ca5ec33d33516f1b62a2912",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/3fa5b9d72c6375363ca5ec33d33516f1b62a2912",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:03:27Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:03:27Z"
+    },
+    "tree": {
+      "sha": "bde2aa135120e460b371cd16cf3edf9599aa6d73",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/bde2aa135120e460b371cd16cf3edf9599aa6d73"
+    },
+    "message": "Add cross-bot terminal listing status",
+    "parents": [
+      {
+        "sha": "c513b53d1a67560a514e820c3ac6c333e44c97c8",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/c513b53d1a67560a514e820c3ac6c333e44c97c8",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/c513b53d1a67560a514e820c3ac6c333e44c97c8"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "9d4e59d87049307756afbb72348e5f366d193a4f",
+    "node_id": "C_kwDOSC2AMdoAKDlkNGU1OWQ4NzA0OTMwNzc1NmFmYmI3MjM0OGU1ZjM2NmQxOTNhNGY",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/9d4e59d87049307756afbb72348e5f366d193a4f",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/9d4e59d87049307756afbb72348e5f366d193a4f",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:03:46Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:03:46Z"
+    },
+    "tree": {
+      "sha": "1acfd0b0777341e1bb75528b98e49ec737288203",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/1acfd0b0777341e1bb75528b98e49ec737288203"
+    },
+    "message": "Add cross-bot negotiation ownership migration",
+    "parents": [
+      {
+        "sha": "3fa5b9d72c6375363ca5ec33d33516f1b62a2912",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/3fa5b9d72c6375363ca5ec33d33516f1b62a2912",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/3fa5b9d72c6375363ca5ec33d33516f1b62a2912"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "cc4d45b5bcb5eb800cb114efdf517272eb530bdc",
+    "node_id": "C_kwDOSC2AMdoAKGNjNGQ0NWI1YmNiNWViODAwY2IxMTRlZmRmNTE3MjcyZWI1MzBiZGM",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/cc4d45b5bcb5eb800cb114efdf517272eb530bdc",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/cc4d45b5bcb5eb800cb114efdf517272eb530bdc",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:04:25Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:04:25Z"
+    },
+    "tree": {
+      "sha": "21b5a427f1bfe264cd57f713a02f5e94769bf8c0",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/21b5a427f1bfe264cd57f713a02f5e94769bf8c0"
+    },
+    "message": "Enforce cross-bot marketplace negotiation ownership",
+    "parents": [
+      {
+        "sha": "9d4e59d87049307756afbb72348e5f366d193a4f",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/9d4e59d87049307756afbb72348e5f366d193a4f",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/9d4e59d87049307756afbb72348e5f366d193a4f"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "dfefde105c572f196b6a7a826914fe6c00550d10",
+    "node_id": "C_kwDOSC2AMdoAKGRmZWZkZTEwNWM1NzJmMTk2YjZhN2E4MjY5MTRmZTZjMDA1NTBkMTA",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/dfefde105c572f196b6a7a826914fe6c00550d10",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/dfefde105c572f196b6a7a826914fe6c00550d10",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:04:50Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:04:50Z"
+    },
+    "tree": {
+      "sha": "2a7c4c899999857f916210bf0c49b8904cf18e22",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/2a7c4c899999857f916210bf0c49b8904cf18e22"
+    },
+    "message": "Stop reserving automatic steps for action-required listings",
+    "parents": [
+      {
+        "sha": "cc4d45b5bcb5eb800cb114efdf517272eb530bdc",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/cc4d45b5bcb5eb800cb114efdf517272eb530bdc",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/cc4d45b5bcb5eb800cb114efdf517272eb530bdc"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "36c30f2d8c64d5b5dfbe2e10f5a8eb18daa2cbde",
+    "node_id": "C_kwDOSC2AMdoAKDM2YzMwZjJkOGM2NGQ1YjVkZmJlMmUxMGY1YThlYjE4ZGFhMmNiZGU",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/36c30f2d8c64d5b5dfbe2e10f5a8eb18daa2cbde",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/36c30f2d8c64d5b5dfbe2e10f5a8eb18daa2cbde",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:05:20Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:05:20Z"
+    },
+    "tree": {
+      "sha": "2bfdff2e8c11b86fa189ae2ab1e9d92ee80e02dc",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/2bfdff2e8c11b86fa189ae2ab1e9d92ee80e02dc"
+    },
+    "message": "Add per-step read and unread follow-up delays",
+    "parents": [
+      {
+        "sha": "dfefde105c572f196b6a7a826914fe6c00550d10",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/dfefde105c572f196b6a7a826914fe6c00550d10",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/dfefde105c572f196b6a7a826914fe6c00550d10"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "5465dbf3b79b5b0be2e8da54139daa9544e748aa",
+    "node_id": "C_kwDOSC2AMdoAKDU0NjVkYmYzYjc5YjViMGJlMmU4ZGE1NDEzOWRhYTk1NDRlNzQ4YWE",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/5465dbf3b79b5b0be2e8da54139daa9544e748aa",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/5465dbf3b79b5b0be2e8da54139daa9544e748aa",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:05:48Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:05:48Z"
+    },
+    "tree": {
+      "sha": "86ff65891f8ac37c50dc7317bf36c16f244436be",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/86ff65891f8ac37c50dc7317bf36c16f244436be"
+    },
+    "message": "Persist per-step pending response delays",
+    "parents": [
+      {
+        "sha": "36c30f2d8c64d5b5dfbe2e10f5a8eb18daa2cbde",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/36c30f2d8c64d5b5dfbe2e10f5a8eb18daa2cbde",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/36c30f2d8c64d5b5dfbe2e10f5a8eb18daa2cbde"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "a269c9bbcfaade9a6418136190eaa4327f3e420f",
+    "node_id": "C_kwDOSC2AMdoAKGEyNjljOWJiY2ZhYWRlOWE2NDE4MTM2MTkwZWFhNDMyN2YzZTQyMGY",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/a269c9bbcfaade9a6418136190eaa4327f3e420f",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/a269c9bbcfaade9a6418136190eaa4327f3e420f",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:24:04Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:24:04Z"
+    },
+    "tree": {
+      "sha": "2e77eba26441f7f7642b32064a6557aa346a728f",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/2e77eba26441f7f7642b32064a6557aa346a728f"
+    },
+    "message": "Expose per-step pending follow-up delays",
+    "parents": [
+      {
+        "sha": "5465dbf3b79b5b0be2e8da54139daa9544e748aa",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/5465dbf3b79b5b0be2e8da54139daa9544e748aa",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/5465dbf3b79b5b0be2e8da54139daa9544e748aa"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "37649bb11431fc12da0bc5fa16314f76c62a1d9b",
+    "node_id": "C_kwDOSC2AMdoAKDM3NjQ5YmIxMTQzMWZjMTJkYTBiYzVmYTE2MzE0Zjc2YzYyYTFkOWI",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/37649bb11431fc12da0bc5fa16314f76c62a1d9b",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/37649bb11431fc12da0bc5fa16314f76c62a1d9b",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:24:12Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:24:12Z"
+    },
+    "tree": {
+      "sha": "dbea5aa6b92c14b72fc11a35a70266111bd69c97",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/dbea5aa6b92c14b72fc11a35a70266111bd69c97"
+    },
+    "message": "Return pending follow-up delays in step API",
+    "parents": [
+      {
+        "sha": "a269c9bbcfaade9a6418136190eaa4327f3e420f",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/a269c9bbcfaade9a6418136190eaa4327f3e420f",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/a269c9bbcfaade9a6418136190eaa4327f3e420f"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "0435c17a033a7e20ebcc60d22375e78517c0007f",
+    "node_id": "C_kwDOSC2AMdoAKDA0MzVjMTdhMDMzYTdlMjBlYmNjNjBkMjIzNzVlNzg1MTdjMDAwN2Y",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/0435c17a033a7e20ebcc60d22375e78517c0007f",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/0435c17a033a7e20ebcc60d22375e78517c0007f",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:24:21Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:24:21Z"
+    },
+    "tree": {
+      "sha": "9fdf996b3c2f4462f1bb3f2580f252589cae7a30",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/9fdf996b3c2f4462f1bb3f2580f252589cae7a30"
+    },
+    "message": "Map pending follow-up delays to API",
+    "parents": [
+      {
+        "sha": "37649bb11431fc12da0bc5fa16314f76c62a1d9b",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/37649bb11431fc12da0bc5fa16314f76c62a1d9b",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/37649bb11431fc12da0bc5fa16314f76c62a1d9b"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "a2b48d883df8b2f9d4d1139e35c31296b669e3f7",
+    "node_id": "C_kwDOSC2AMdoAKGEyYjQ4ZDg4M2RmOGIyZjlkNGQxMTM5ZTM1YzMxMjk2YjY2OWUzZjc",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/a2b48d883df8b2f9d4d1139e35c31296b669e3f7",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/a2b48d883df8b2f9d4d1139e35c31296b669e3f7",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:27:03Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:27:03Z"
+    },
+    "tree": {
+      "sha": "950428d833f27e6fb0ef04d2e8f353a42fb5a5c0",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/950428d833f27e6fb0ef04d2e8f353a42fb5a5c0"
+    },
+    "message": "Add atomic cross-bot marketplace negotiation claim",
+    "parents": [
+      {
+        "sha": "0435c17a033a7e20ebcc60d22375e78517c0007f",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/0435c17a033a7e20ebcc60d22375e78517c0007f",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/0435c17a033a7e20ebcc60d22375e78517c0007f"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "5a1e97a533090dfdefcae3167dcd2e8411969bdc",
+    "node_id": "C_kwDOSC2AMdoAKDVhMWU5N2E1MzMwOTBkZmRlZmNhZTMxNjdkY2QyZTg0MTE5NjliZGM",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/5a1e97a533090dfdefcae3167dcd2e8411969bdc",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/5a1e97a533090dfdefcae3167dcd2e8411969bdc",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:27:32Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:27:32Z"
+    },
+    "tree": {
+      "sha": "9fdf996b3c2f4462f1bb3f2580f252589cae7a30",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/9fdf996b3c2f4462f1bb3f2580f252589cae7a30"
+    },
+    "message": "Keep marketplace claim logic centralized in action guard service",
+    "parents": [
+      {
+        "sha": "a2b48d883df8b2f9d4d1139e35c31296b669e3f7",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/a2b48d883df8b2f9d4d1139e35c31296b669e3f7",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/a2b48d883df8b2f9d4d1139e35c31296b669e3f7"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "6d571eb7a0ecf5298be799f621524ec5693dac4c",
+    "node_id": "C_kwDOSC2AMdoAKDZkNTcxZWI3YTBlY2Y1Mjk4YmU3OTlmNjIxNTI0ZWM1NjkzZGFjNGM",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/6d571eb7a0ecf5298be799f621524ec5693dac4c",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/6d571eb7a0ecf5298be799f621524ec5693dac4c",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:27:47Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:27:47Z"
+    },
+    "tree": {
+      "sha": "a5f8931882d595641aed222c1223fde380dc6ff8",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/a5f8931882d595641aed222c1223fde380dc6ff8"
+    },
+    "message": "Carry pending follow-up delays into Playwright",
+    "parents": [
+      {
+        "sha": "5a1e97a533090dfdefcae3167dcd2e8411969bdc",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/5a1e97a533090dfdefcae3167dcd2e8411969bdc",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/5a1e97a533090dfdefcae3167dcd2e8411969bdc"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "3f6362b5864e58855fa84b6aa03ebf55c359285f",
+    "node_id": "C_kwDOSC2AMdoAKDNmNjM2MmI1ODY0ZTU4ODU1ZmE4NGI2YWEwM2ViZjU1YzM1OTI4NWY",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/3f6362b5864e58855fa84b6aa03ebf55c359285f",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/3f6362b5864e58855fa84b6aa03ebf55c359285f",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:28:49Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:28:49Z"
+    },
+    "tree": {
+      "sha": "728176bec7d185b3dd7c5e5efe88b958b3efdc53",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/728176bec7d185b3dd7c5e5efe88b958b3efdc53"
+    },
+    "message": "Use per-step read and unread follow-up timers",
+    "parents": [
+      {
+        "sha": "6d571eb7a0ecf5298be799f621524ec5693dac4c",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/6d571eb7a0ecf5298be799f621524ec5693dac4c",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/6d571eb7a0ecf5298be799f621524ec5693dac4c"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "fa8c24fc49dae574b86cc78d07014f6f9ab6f9fd",
+    "node_id": "C_kwDOSC2AMdoAKGZhOGMyNGZjNDlkYWU1NzRiODZjYzc4ZDA3MDE0ZjZmOWFiNmY5ZmQ",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/fa8c24fc49dae574b86cc78d07014f6f9ab6f9fd",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/fa8c24fc49dae574b86cc78d07014f6f9ab6f9fd",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:30:15Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:30:15Z"
+    },
+    "tree": {
+      "sha": "f0578c42fc3f563b57f7a11eb4d4adde1a94d7a3",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/f0578c42fc3f563b57f7a11eb4d4adde1a94d7a3"
+    },
+    "message": "Let backend quota and capacity govern production throughput",
+    "parents": [
+      {
+        "sha": "3f6362b5864e58855fa84b6aa03ebf55c359285f",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/3f6362b5864e58855fa84b6aa03ebf55c359285f",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/3f6362b5864e58855fa84b6aa03ebf55c359285f"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "47ad0ef2248d4092584207736ec5774e296499a0",
+    "node_id": "C_kwDOSC2AMdoAKDQ3YWQwZWYyMjQ4ZDQwOTI1ODQyMDc3MzZlYzU3NzRlMjk2NDk5YTA",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/47ad0ef2248d4092584207736ec5774e296499a0",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/47ad0ef2248d4092584207736ec5774e296499a0",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:31:30Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:31:30Z"
+    },
+    "tree": {
+      "sha": "3ab68ea98cc011064a253b9eaa5e338db99ab31f",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/3ab68ea98cc011064a253b9eaa5e338db99ab31f"
+    },
+    "message": "Wire per-step pending follow-up policies through bot service",
+    "parents": [
+      {
+        "sha": "fa8c24fc49dae574b86cc78d07014f6f9ab6f9fd",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/fa8c24fc49dae574b86cc78d07014f6f9ab6f9fd",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/fa8c24fc49dae574b86cc78d07014f6f9ab6f9fd"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "18732daead909d40a73ae4fffba3b82f47a8e18f",
+    "node_id": "C_kwDOSC2AMdoAKDE4NzMyZGFlYWQ5MDlkNDBhNzNhZTRmZmZiYTNiODJmNDdhOGUxOGY",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/18732daead909d40a73ae4fffba3b82f47a8e18f",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/18732daead909d40a73ae4fffba3b82f47a8e18f",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:31:52Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:31:52Z"
+    },
+    "tree": {
+      "sha": "58a064f1d1e16b511f8c3ab3a9a2e3923acdd8dc",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/58a064f1d1e16b511f8c3ab3a9a2e3923acdd8dc"
+    },
+    "message": "Test backend-controlled production action throughput",
+    "parents": [
+      {
+        "sha": "47ad0ef2248d4092584207736ec5774e296499a0",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/47ad0ef2248d4092584207736ec5774e296499a0",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/47ad0ef2248d4092584207736ec5774e296499a0"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "d8f4defd027583f8470b391c07b2aaca856f7906",
+    "node_id": "C_kwDOSC2AMdoAKGQ4ZjRkZWZkMDI3NTgzZjg0NzBiMzkxYzA3YjJhYWNhODU2Zjc5MDY",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/d8f4defd027583f8470b391c07b2aaca856f7906",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/d8f4defd027583f8470b391c07b2aaca856f7906",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:32:28Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:32:28Z"
+    },
+    "tree": {
+      "sha": "d3e7527d06c2c621f94ad3c39747b6d497a00b1b",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/d3e7527d06c2c621f94ad3c39747b6d497a00b1b"
+    },
+    "message": "Test configurable read and unread negotiation follow-ups",
+    "parents": [
+      {
+        "sha": "18732daead909d40a73ae4fffba3b82f47a8e18f",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/18732daead909d40a73ae4fffba3b82f47a8e18f",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/18732daead909d40a73ae4fffba3b82f47a8e18f"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "7c8a86bce7be28d3e1a43aca5a2abeafc5d66791",
+    "node_id": "C_kwDOSC2AMdoAKDdjOGE4NmJjZTdiZTI4ZDNlMWE0M2FjYTVhMmFiZWFmYzVkNjY3OTE",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/7c8a86bce7be28d3e1a43aca5a2abeafc5d66791",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/7c8a86bce7be28d3e1a43aca5a2abeafc5d66791",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:32:51Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:32:51Z"
+    },
+    "tree": {
+      "sha": "c315d21994834fd0570309b2d8ffa477dc7a192d",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/c315d21994834fd0570309b2d8ffa477dc7a192d"
+    },
+    "message": "Add Galaxy Tab S11 Ultra target regressions",
+    "parents": [
+      {
+        "sha": "d8f4defd027583f8470b391c07b2aaca856f7906",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/d8f4defd027583f8470b391c07b2aaca856f7906",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/d8f4defd027583f8470b391c07b2aaca856f7906"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "3ef7fb45a9f9f7cd890e5745ad33ba77b101c82e",
+    "node_id": "C_kwDOSC2AMdoAKDNlZjdmYjQ1YTlmOWY3Y2Q4OTBlNTc0NWFkMzNiYTc3YjEwMWM4MmU",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/3ef7fb45a9f9f7cd890e5745ad33ba77b101c82e",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/3ef7fb45a9f9f7cd890e5745ad33ba77b101c82e",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:33:43Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:33:43Z"
+    },
+    "tree": {
+      "sha": "26b89a99f92b763ae75a1f757887bfa4d2ba7598",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/26b89a99f92b763ae75a1f757887bfa4d2ba7598"
+    },
+    "message": "Add read and unread delays to bot form model",
+    "parents": [
+      {
+        "sha": "7c8a86bce7be28d3e1a43aca5a2abeafc5d66791",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/7c8a86bce7be28d3e1a43aca5a2abeafc5d66791",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/7c8a86bce7be28d3e1a43aca5a2abeafc5d66791"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "0c3705552563a7af95f52305b62add33814750d9",
+    "node_id": "C_kwDOSC2AMdoAKDBjMzcwNTU1MjU2M2E3YWY5NWY1MjMwNWI2MmFkZDMzODE0NzUwZDk",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/0c3705552563a7af95f52305b62add33814750d9",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/0c3705552563a7af95f52305b62add33814750d9",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:34:08Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:34:08Z"
+    },
+    "tree": {
+      "sha": "334e16f04790344dd0546f4ef65ef3bf86cd0731",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/334e16f04790344dd0546f4ef65ef3bf86cd0731"
+    },
+    "message": "Expose pending follow-up delays in frontend bot types",
+    "parents": [
+      {
+        "sha": "3ef7fb45a9f9f7cd890e5745ad33ba77b101c82e",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/3ef7fb45a9f9f7cd890e5745ad33ba77b101c82e",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/3ef7fb45a9f9f7cd890e5745ad33ba77b101c82e"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "de4de014334533e40a355db624c97796adfa9df1",
+    "node_id": "C_kwDOSC2AMdoAKGRlNGRlMDE0MzM0NTMzZTQwYTM1NWRiNjI0Yzk3Nzk2YWRmYTlkZjE",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/de4de014334533e40a355db624c97796adfa9df1",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/de4de014334533e40a355db624c97796adfa9df1",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:34:28Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:34:28Z"
+    },
+    "tree": {
+      "sha": "8fc5ba5b6e48605be6dfc3ade753c3e193374a99",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/8fc5ba5b6e48605be6dfc3ade753c3e193374a99"
+    },
+    "message": "Send per-step pending follow-up delays",
+    "parents": [
+      {
+        "sha": "0c3705552563a7af95f52305b62add33814750d9",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/0c3705552563a7af95f52305b62add33814750d9",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/0c3705552563a7af95f52305b62add33814750d9"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "f41cf553db05a846c53570d4f7ad7fde45dc9f71",
+    "node_id": "C_kwDOSC2AMdoAKGY0MWNmNTUzZGIwNWE4NDZjNTM1NzBkNGY3YWQ3ZmRlNDVkYzlmNzE",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/f41cf553db05a846c53570d4f7ad7fde45dc9f71",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/f41cf553db05a846c53570d4f7ad7fde45dc9f71",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:35:07Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:35:07Z"
+    },
+    "tree": {
+      "sha": "e7b699c7d1e609a7b2a0563d4832d3137c2f6753",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/e7b699c7d1e609a7b2a0563d4832d3137c2f6753"
+    },
+    "message": "Default per-step read and unread follow-up timers",
+    "parents": [
+      {
+        "sha": "de4de014334533e40a355db624c97796adfa9df1",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/de4de014334533e40a355db624c97796adfa9df1",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/de4de014334533e40a355db624c97796adfa9df1"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "555d94aba1876885fe5ff680891502e40106c388",
+    "node_id": "C_kwDOSC2AMdoAKDU1NWQ5NGFiYTE4NzY4ODVmZTVmZjY4MDg5MTUwMmU0MDEwNmMzODg",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/555d94aba1876885fe5ff680891502e40106c388",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/555d94aba1876885fe5ff680891502e40106c388",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:35:41Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:35:41Z"
+    },
+    "tree": {
+      "sha": "88b24853f9aedf02cbf0092ef27177de6da7d214",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/88b24853f9aedf02cbf0092ef27177de6da7d214"
+    },
+    "message": "Validate per-step read and unread timers",
+    "parents": [
+      {
+        "sha": "f41cf553db05a846c53570d4f7ad7fde45dc9f71",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/f41cf553db05a846c53570d4f7ad7fde45dc9f71",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/f41cf553db05a846c53570d4f7ad7fde45dc9f71"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "19084c67afcbf31a98022a28c4d2c25b5ee3b672",
+    "node_id": "C_kwDOSC2AMdoAKDE5MDg0YzY3YWZjYmYzMWE5ODAyMmEyOGM0ZDJjMjViNWVlM2I2NzI",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/19084c67afcbf31a98022a28c4d2c25b5ee3b672",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/19084c67afcbf31a98022a28c4d2c25b5ee3b672",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:37:25Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:37:25Z"
+    },
+    "tree": {
+      "sha": "91b193f27aaacf3a96829723ca76640a81ffc35c",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/91b193f27aaacf3a96829723ca76640a81ffc35c"
+    },
+    "message": "Add configurable read and unread timers to negotiation UI",
+    "parents": [
+      {
+        "sha": "555d94aba1876885fe5ff680891502e40106c388",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/555d94aba1876885fe5ff680891502e40106c388",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/555d94aba1876885fe5ff680891502e40106c388"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "2bf935aacb64a80bc9084c64ec8d047ad0e7936a",
+    "node_id": "C_kwDOSC2AMdoAKDJiZjkzNWFhY2I2NGE4MGJjOTA4NGM2NGVjOGQwNDdhZDBlNzkzNmE",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/2bf935aacb64a80bc9084c64ec8d047ad0e7936a",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/2bf935aacb64a80bc9084c64ec8d047ad0e7936a",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:38:18Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:38:18Z"
+    },
+    "tree": {
+      "sha": "d9e5005d7c8cb688421829a9b3ff0bd988976967",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/d9e5005d7c8cb688421829a9b3ff0bd988976967"
+    },
+    "message": "Preserve pending follow-up timers while editing bots",
+    "parents": [
+      {
+        "sha": "19084c67afcbf31a98022a28c4d2c25b5ee3b672",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/19084c67afcbf31a98022a28c4d2c25b5ee3b672",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/19084c67afcbf31a98022a28c4d2c25b5ee3b672"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "b1d45476e379d49931b8f7c7fdcb556489b49310",
+    "node_id": "C_kwDOSC2AMdoAKGIxZDQ1NDc2ZTM3OWQ0OTkzMWI4ZjdjN2ZkY2I1NTY0ODliNDkzMTA",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/b1d45476e379d49931b8f7c7fdcb556489b49310",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/b1d45476e379d49931b8f7c7fdcb556489b49310",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:40:15Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:40:15Z"
+    },
+    "tree": {
+      "sha": "7384baa8e61fdf0e06ab88ffa12ca72194215315",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/7384baa8e61fdf0e06ab88ffa12ca72194215315"
+    },
+    "message": "Verify action-required conversations do not consume automated capacity",
+    "parents": [
+      {
+        "sha": "2bf935aacb64a80bc9084c64ec8d047ad0e7936a",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/2bf935aacb64a80bc9084c64ec8d047ad0e7936a",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/2bf935aacb64a80bc9084c64ec8d047ad0e7936a"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "cbe89f8ad6bedb399df5beac1c02b2479d87027d",
+    "node_id": "C_kwDOSC2AMdoAKGNiZTg5ZjhhZDZiZWRiMzk5ZGY1YmVhYzFjMDJiMjQ3OWQ4NzAyN2Q",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/cbe89f8ad6bedb399df5beac1c02b2479d87027d",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/cbe89f8ad6bedb399df5beac1c02b2479d87027d",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:41:15Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:41:15Z"
+    },
+    "tree": {
+      "sha": "f41d1a9cc177e241b917a0c825a0bef20f1c049c",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/f41d1a9cc177e241b917a0c825a0bef20f1c049c"
+    },
+    "message": "Document full-system audit invariants",
+    "parents": [
+      {
+        "sha": "b1d45476e379d49931b8f7c7fdcb556489b49310",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/b1d45476e379d49931b8f7c7fdcb556489b49310",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/b1d45476e379d49931b8f7c7fdcb556489b49310"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "6860440b2db978b6f372335448a8dba8a89a6d75",
+    "node_id": "C_kwDOSC2AMdoAKDY4NjA0NDBiMmRiOTc4YjZmMzcyMzM1NDQ4YThkYmE4YTg5YTZkNzU",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/6860440b2db978b6f372335448a8dba8a89a6d75",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/6860440b2db978b6f372335448a8dba8a89a6d75",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:41:25Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:41:25Z"
+    },
+    "tree": {
+      "sha": "2b26e8d69a444733b86cfb5b87a0168842a15796",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/2b26e8d69a444733b86cfb5b87a0168842a15796"
+    },
+    "message": "Add human-readable listing status labels",
+    "parents": [
+      {
+        "sha": "cbe89f8ad6bedb399df5beac1c02b2479d87027d",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/cbe89f8ad6bedb399df5beac1c02b2479d87027d",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/cbe89f8ad6bedb399df5beac1c02b2479d87027d"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "328c9b6e03d9f3de2ec4995132b0fbbf5e22ee94",
+    "node_id": "C_kwDOSC2AMdoAKDMyOGM5YjZlMDNkOWYzZGUyZWM0OTk1MTMyYjBmYmJmNWUyMmVlOTQ",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/328c9b6e03d9f3de2ec4995132b0fbbf5e22ee94",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/328c9b6e03d9f3de2ec4995132b0fbbf5e22ee94",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:41:40Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:41:40Z"
+    },
+    "tree": {
+      "sha": "fb3e17f09e26c7acda75fd7d869bc6e440756864",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/fb3e17f09e26c7acda75fd7d869bc6e440756864"
+    },
+    "message": "Test cross-bot marketplace negotiation claim blocking",
+    "parents": [
+      {
+        "sha": "6860440b2db978b6f372335448a8dba8a89a6d75",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/6860440b2db978b6f372335448a8dba8a89a6d75",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/6860440b2db978b6f372335448a8dba8a89a6d75"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "fe5160b757c34b821ff160d3733978f58fab48d7",
+    "node_id": "C_kwDOSC2AMdoAKGZlNTE2MGI3NTdjMzRiODIxZmYxNjBkMzczMzk3OGY1OGZhYjQ4ZDc",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/fe5160b757c34b821ff160d3733978f58fab48d7",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/fe5160b757c34b821ff160d3733978f58fab48d7",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:42:16Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:42:16Z"
+    },
+    "tree": {
+      "sha": "7781d4b4e9807113d2511c18fbea35cc8781ba7e",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/7781d4b4e9807113d2511c18fbea35cc8781ba7e"
+    },
+    "message": "Fix cross-bot claim unit test stubbing",
+    "parents": [
+      {
+        "sha": "328c9b6e03d9f3de2ec4995132b0fbbf5e22ee94",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/328c9b6e03d9f3de2ec4995132b0fbbf5e22ee94",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/328c9b6e03d9f3de2ec4995132b0fbbf5e22ee94"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "41735adb32822ae998f186a16a64c5eb50b08c34",
+    "node_id": "C_kwDOSC2AMdoAKDQxNzM1YWRiMzI4MjJhZTk5OGYxODZhMTZhNjRjNWViNTBiMDhjMzQ",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/41735adb32822ae998f186a16a64c5eb50b08c34",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/41735adb32822ae998f186a16a64c5eb50b08c34",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:42:42Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:42:42Z"
+    },
+    "tree": {
+      "sha": "6b515aa9bcd34a310b05daa015e624d4ee3e91ad",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/6b515aa9bcd34a310b05daa015e624d4ee3e91ad"
+    },
+    "message": "Cover cross-bot skipped status label",
+    "parents": [
+      {
+        "sha": "fe5160b757c34b821ff160d3733978f58fab48d7",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/fe5160b757c34b821ff160d3733978f58fab48d7",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/fe5160b757c34b821ff160d3733978f58fab48d7"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "0dff46dc8c259649b69b4986434cde01ddcce844",
+    "node_id": "C_kwDOSC2AMdoAKDBkZmY0NmRjOGMyNTk2NDliNjliNDk4NjQzNGNkZTAxZGRjY2U4NDQ",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/0dff46dc8c259649b69b4986434cde01ddcce844",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/0dff46dc8c259649b69b4986434cde01ddcce844",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:43:01Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:43:01Z"
+    },
+    "tree": {
+      "sha": "7781d4b4e9807113d2511c18fbea35cc8781ba7e",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/7781d4b4e9807113d2511c18fbea35cc8781ba7e"
+    },
+    "message": "Remove unsupported frontend test harness file",
+    "parents": [
+      {
+        "sha": "41735adb32822ae998f186a16a64c5eb50b08c34",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/41735adb32822ae998f186a16a64c5eb50b08c34",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/41735adb32822ae998f186a16a64c5eb50b08c34"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "24d29909c6b7daa5020cc54c122f3d1f654353ed",
+    "node_id": "C_kwDOSC2AMdoAKDI0ZDI5OTA5YzZiN2RhYTUwMjBjYzU0YzEyMmYzZDFmNjU0MzUzZWQ",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/24d29909c6b7daa5020cc54c122f3d1f654353ed",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/24d29909c6b7daa5020cc54c122f3d1f654353ed",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:43:09Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:43:09Z"
+    },
+    "tree": {
+      "sha": "2cc2b5a2f0a7ea6b9414938bb5a75a6aa8251dbe",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/2cc2b5a2f0a7ea6b9414938bb5a75a6aa8251dbe"
+    },
+    "message": "Document listing status label helper",
+    "parents": [
+      {
+        "sha": "0dff46dc8c259649b69b4986434cde01ddcce844",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/0dff46dc8c259649b69b4986434cde01ddcce844",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/0dff46dc8c259649b69b4986434cde01ddcce844"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "7915306cf42c60457269aa15099093fe4ec9cf74",
+    "node_id": "C_kwDOSC2AMdoAKDc5MTUzMDZjZjQyYzYwNDU3MjY5YWExNTA5OTA5M2ZlNGVjOWNmNzQ",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/7915306cf42c60457269aa15099093fe4ec9cf74",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/7915306cf42c60457269aa15099093fe4ec9cf74",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:43:15Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:43:15Z"
+    },
+    "tree": {
+      "sha": "7bb2b1eca4488c1fd231fcb57a623f74508aa638",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/7bb2b1eca4488c1fd231fcb57a623f74508aa638"
+    },
+    "message": "Index audit documentation",
+    "parents": [
+      {
+        "sha": "24d29909c6b7daa5020cc54c122f3d1f654353ed",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/24d29909c6b7daa5020cc54c122f3d1f654353ed",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/24d29909c6b7daa5020cc54c122f3d1f654353ed"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "279a31afdcb980117ee68b88ab405bc04d9b4bc1",
+    "node_id": "C_kwDOSC2AMdoAKDI3OWEzMWFmZGNiOTgwMTE3ZWU2OGI4OGFiNDA1YmMwNGQ5YjRiYzE",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/279a31afdcb980117ee68b88ab405bc04d9b4bc1",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/279a31afdcb980117ee68b88ab405bc04d9b4bc1",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:43:25Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T21:43:25Z"
+    },
+    "tree": {
+      "sha": "b2b5303db1210f1530ee15628e438ec11313cfee",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/b2b5303db1210f1530ee15628e438ec11313cfee"
+    },
+    "message": "Keep audit directory tracked",
+    "parents": [
+      {
+        "sha": "7915306cf42c60457269aa15099093fe4ec9cf74",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/7915306cf42c60457269aa15099093fe4ec9cf74",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/7915306cf42c60457269aa15099093fe4ec9cf74"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "90b3cc7c9e5b4cd5112a37f28a9c0b9f8daeaa9e",
+    "node_id": "C_kwDOSC2AMdoAKDkwYjNjYzdjOWU1YjRjZDUxMTJhMzdmMjhhOWMwYjlmOGRhZWFhOWU",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/90b3cc7c9e5b4cd5112a37f28a9c0b9f8daeaa9e",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/90b3cc7c9e5b4cd5112a37f28a9c0b9f8daeaa9e",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T23:17:51Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T23:17:51Z"
+    },
+    "tree": {
+      "sha": "b53d03db9d00ffdf01ed6ecca59eece6cf013a27",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/b53d03db9d00ffdf01ed6ecca59eece6cf013a27"
+    },
+    "message": "Expand Samsung search-query model regression matrix",
+    "parents": [
+      {
+        "sha": "279a31afdcb980117ee68b88ab405bc04d9b4bc1",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/279a31afdcb980117ee68b88ab405bc04d9b4bc1",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/279a31afdcb980117ee68b88ab405bc04d9b4bc1"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "a0bce4d41761c43c117a9c4a9be1b9f836ae2f12",
+    "node_id": "C_kwDOSC2AMdoAKGEwYmNlNGQ0MTc2MWM0M2MxMTdhOWM0YTliZTFiOWY4MzZhZTJmMTI",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/a0bce4d41761c43c117a9c4a9be1b9f836ae2f12",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/a0bce4d41761c43c117a9c4a9be1b9f836ae2f12",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T23:18:47Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T23:18:47Z"
+    },
+    "tree": {
+      "sha": "700ffb724aff81c2479cec8597e0d5fcf7489519",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/700ffb724aff81c2479cec8597e0d5fcf7489519"
+    },
+    "message": "Canonicalize Samsung model names safely in search matching",
+    "parents": [
+      {
+        "sha": "90b3cc7c9e5b4cd5112a37f28a9c0b9f8daeaa9e",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/90b3cc7c9e5b4cd5112a37f28a9c0b9f8daeaa9e",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/90b3cc7c9e5b4cd5112a37f28a9c0b9f8daeaa9e"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "2209b6232131c48cb6f79d81328d540ec0fbdb3e",
+    "node_id": "C_kwDOSC2AMdoAKDIyMDliNjIzMjEzMWM0OGNiNmY3OWQ4MTMyOGQ1NDBlYzBmYmRiM2U",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/2209b6232131c48cb6f79d81328d540ec0fbdb3e",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/2209b6232131c48cb6f79d81328d540ec0fbdb3e",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T23:21:03Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T23:21:03Z"
+    },
+    "tree": {
+      "sha": "3e546c7d4223d04fbe594b6012a2c83f94e8020d",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/3e546c7d4223d04fbe594b6012a2c83f94e8020d"
+    },
+    "message": "Cover Vinted model title test-id shape",
+    "parents": [
+      {
+        "sha": "a0bce4d41761c43c117a9c4a9be1b9f836ae2f12",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/a0bce4d41761c43c117a9c4a9be1b9f836ae2f12",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/a0bce4d41761c43c117a9c4a9be1b9f836ae2f12"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "9c41d46c29be5936772cd63ba08713084ddbf2cf",
+    "node_id": "C_kwDOSC2AMdoAKDljNDFkNDZjMjliZTU5MzY3NzJjZDYzYmEwODcxMzA4NGRkYmYyY2Y",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/9c41d46c29be5936772cd63ba08713084ddbf2cf",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/9c41d46c29be5936772cd63ba08713084ddbf2cf",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T23:22:28Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T23:22:28Z"
+    },
+    "tree": {
+      "sha": "430e4d3290d1fcdfe95f13ff936d82406e5eb647",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/430e4d3290d1fcdfe95f13ff936d82406e5eb647"
+    },
+    "message": "Accept verified Vinted model title test-id without weakening exact ID proof",
+    "parents": [
+      {
+        "sha": "2209b6232131c48cb6f79d81328d540ec0fbdb3e",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/2209b6232131c48cb6f79d81328d540ec0fbdb3e",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/2209b6232131c48cb6f79d81328d540ec0fbdb3e"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "750693b72bcdc691c6f3d58392270e81ee896927",
+    "node_id": "C_kwDOSC2AMdoAKDc1MDY5M2I3MmJjZGM2OTFjNmYzZDU4MzkyMjcwZTgxZWU4OTY5Mjc",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/750693b72bcdc691c6f3d58392270e81ee896927",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/750693b72bcdc691c6f3d58392270e81ee896927",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T23:23:49Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T23:23:49Z"
+    },
+    "tree": {
+      "sha": "93016d5a5aff737d3bc56b43fb76b63915c9c366",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/93016d5a5aff737d3bc56b43fb76b63915c9c366"
+    },
+    "message": "Remove unused history status helper from audit branch",
+    "parents": [
+      {
+        "sha": "9c41d46c29be5936772cd63ba08713084ddbf2cf",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/9c41d46c29be5936772cd63ba08713084ddbf2cf",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/9c41d46c29be5936772cd63ba08713084ddbf2cf"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "7055dedfb6b514716d7e59c05524187e41f530dd",
+    "node_id": "C_kwDOSC2AMdoAKDcwNTVkZWRmYjZiNTE0NzE2ZDdlNTljMDU1MjQxODdlNDFmNTMwZGQ",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/7055dedfb6b514716d7e59c05524187e41f530dd",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/7055dedfb6b514716d7e59c05524187e41f530dd",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T23:23:57Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T23:23:57Z"
+    },
+    "tree": {
+      "sha": "4bee72441a0f8e7b40fe52037ec43356f3ff34d2",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/4bee72441a0f8e7b40fe52037ec43356f3ff34d2"
+    },
+    "message": "Remove unused history audit note",
+    "parents": [
+      {
+        "sha": "750693b72bcdc691c6f3d58392270e81ee896927",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/750693b72bcdc691c6f3d58392270e81ee896927",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/750693b72bcdc691c6f3d58392270e81ee896927"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "b61def525fbf1856f3b87f79e6eb1ebbe4cbc3b9",
+    "node_id": "C_kwDOSC2AMdoAKGI2MWRlZjUyNWZiZjE4NTZmM2I4N2Y3OWU2ZWIxZWJiZTRjYmMzYjk",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/b61def525fbf1856f3b87f79e6eb1ebbe4cbc3b9",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/b61def525fbf1856f3b87f79e6eb1ebbe4cbc3b9",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T23:24:05Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T23:24:05Z"
+    },
+    "tree": {
+      "sha": "9f88df29f9814242d50a3dfbb5f68e99d474ed8c",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/9f88df29f9814242d50a3dfbb5f68e99d474ed8c"
+    },
+    "message": "Remove obsolete audit placeholder",
+    "parents": [
+      {
+        "sha": "7055dedfb6b514716d7e59c05524187e41f530dd",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/7055dedfb6b514716d7e59c05524187e41f530dd",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/7055dedfb6b514716d7e59c05524187e41f530dd"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "a5f0ed45c46d05bb28fe84e166ea61a12f65a621",
+    "node_id": "C_kwDOSC2AMdoAKGE1ZjBlZDQ1YzQ2ZDA1YmIyOGZlODRlMTY2ZWE2MWExMmY2NWE2MjE",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/a5f0ed45c46d05bb28fe84e166ea61a12f65a621",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/a5f0ed45c46d05bb28fe84e166ea61a12f65a621",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T23:31:17Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T23:31:17Z"
+    },
+    "tree": {
+      "sha": "d574b61a7409c613df83efc0f00f1abd09342a62",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/d574b61a7409c613df83efc0f00f1abd09342a62"
+    },
+    "message": "Broaden Samsung family and variant search regressions",
+    "parents": [
+      {
+        "sha": "b61def525fbf1856f3b87f79e6eb1ebbe4cbc3b9",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/b61def525fbf1856f3b87f79e6eb1ebbe4cbc3b9",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/b61def525fbf1856f3b87f79e6eb1ebbe4cbc3b9"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "478b4e43c2c9a0f8dfb2d2a6de206f0680d70fb1",
+    "node_id": "C_kwDOSC2AMdoAKDQ3OGI0ZTQzYzJjOWEwZjhkZmIyZDJhNmRlMjA2ZjA2ODBkNzBmYjE",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/478b4e43c2c9a0f8dfb2d2a6de206f0680d70fb1",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/478b4e43c2c9a0f8dfb2d2a6de206f0680d70fb1",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T23:33:00Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T23:33:00Z"
+    },
+    "tree": {
+      "sha": "f552ce0d0404bf3792c6575981c2a3e1b9536c41",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/f552ce0d0404bf3792c6575981c2a3e1b9536c41"
+    },
+    "message": "Smoke-test audit Flyway migrations in PostgreSQL CI",
+    "parents": [
+      {
+        "sha": "a5f0ed45c46d05bb28fe84e166ea61a12f65a621",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/a5f0ed45c46d05bb28fe84e166ea61a12f65a621",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/a5f0ed45c46d05bb28fe84e166ea61a12f65a621"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "bcd653ffd111400ff1766514901624acc23b9662",
+    "node_id": "C_kwDOSC2AMdoAKGJjZDY1M2ZmZDExMTQwMGZmMTc2NjUxNDkwMTYyNGFjYzIzYjk2NjI",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/bcd653ffd111400ff1766514901624acc23b9662",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/bcd653ffd111400ff1766514901624acc23b9662",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T23:36:37Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T23:36:37Z"
+    },
+    "tree": {
+      "sha": "4e1f8090334ed2ed70091804587edeb786c9a158",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/4e1f8090334ed2ed70091804587edeb786c9a158"
+    },
+    "message": "Reopen cross-bot losers when pre-submit claim is released",
+    "parents": [
+      {
+        "sha": "478b4e43c2c9a0f8dfb2d2a6de206f0680d70fb1",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/478b4e43c2c9a0f8dfb2d2a6de206f0680d70fb1",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/478b4e43c2c9a0f8dfb2d2a6de206f0680d70fb1"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "d2c715856ee33e6a7b98d8b39bf6e7eed4ff8584",
+    "node_id": "C_kwDOSC2AMdoAKGQyYzcxNTg1NmVlMzNlNmE3Yjk4ZDhiMzliZjZlN2VlZDRmZjg1ODQ",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/d2c715856ee33e6a7b98d8b39bf6e7eed4ff8584",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/d2c715856ee33e6a7b98d8b39bf6e7eed4ff8584",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T23:37:13Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T23:37:13Z"
+    },
+    "tree": {
+      "sha": "c0ad86c055e40ac5ac561c41c9a203b89e9ad06a",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/c0ad86c055e40ac5ac561c41c9a203b89e9ad06a"
+    },
+    "message": "Test reopening losers after pre-submit claim release",
+    "parents": [
+      {
+        "sha": "bcd653ffd111400ff1766514901624acc23b9662",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/bcd653ffd111400ff1766514901624acc23b9662",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/bcd653ffd111400ff1766514901624acc23b9662"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "81ddf76aaef31b1fa09655170d8666f927d69697",
+    "node_id": "C_kwDOSC2AMdoAKDgxZGRmNzZhYWVmMzFiMWZhMDk2NTUxNzBkODY2NmY5MjdkNjk2OTc",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/81ddf76aaef31b1fa09655170d8666f927d69697",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/81ddf76aaef31b1fa09655170d8666f927d69697",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T23:38:10Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T23:38:10Z"
+    },
+    "tree": {
+      "sha": "7a14a0b76f2ef739ccf7c52c3a5957cfef74128c",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/7a14a0b76f2ef739ccf7c52c3a5957cfef74128c"
+    },
+    "message": "Avoid claim-release deadlocks while reopening competitors",
+    "parents": [
+      {
+        "sha": "d2c715856ee33e6a7b98d8b39bf6e7eed4ff8584",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/d2c715856ee33e6a7b98d8b39bf6e7eed4ff8584",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/d2c715856ee33e6a7b98d8b39bf6e7eed4ff8584"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "bc9de13dacacfea510df1893a3bae8471f1cc1eb",
+    "node_id": "C_kwDOSC2AMdoAKGJjOWRlMTNkYWNhY2ZlYTUxMGRmMTg5M2EzYmFlODQ3MWYxY2MxZWI",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/bc9de13dacacfea510df1893a3bae8471f1cc1eb",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/bc9de13dacacfea510df1893a3bae8471f1cc1eb",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T23:40:32Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T23:40:32Z"
+    },
+    "tree": {
+      "sha": "5fe1cf28e2d314289724fab092e660f4dfe109f0",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/5fe1cf28e2d314289724fab092e660f4dfe109f0"
+    },
+    "message": "Smoke-test cross-bot claim release SQL",
+    "parents": [
+      {
+        "sha": "81ddf76aaef31b1fa09655170d8666f927d69697",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/81ddf76aaef31b1fa09655170d8666f927d69697",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/81ddf76aaef31b1fa09655170d8666f927d69697"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "e6d2b64b1aa9c0d65b1c5b20f8a4990b8a2c55a8",
+    "node_id": "C_kwDOSC2AMdoAKGU2ZDJiNjRiMWFhOWMwZDY1YjFjNWIyMGY4YTQ5OTBiOGEyYzU1YTg",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/e6d2b64b1aa9c0d65b1c5b20f8a4990b8a2c55a8",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/e6d2b64b1aa9c0d65b1c5b20f8a4990b8a2c55a8",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T23:40:54Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-21T23:40:54Z"
+    },
+    "tree": {
+      "sha": "9a04168b0f46119f733e5ecd8d8b15293ada3f87",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/9a04168b0f46119f733e5ecd8d8b15293ada3f87"
+    },
+    "message": "Document final targeting and concurrency audit guarantees",
+    "parents": [
+      {
+        "sha": "bc9de13dacacfea510df1893a3bae8471f1cc1eb",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/bc9de13dacacfea510df1893a3bae8471f1cc1eb",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/bc9de13dacacfea510df1893a3bae8471f1cc1eb"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "actor": {
+      "login": "jedreekPrograms",
+      "id": 221845274,
+      "node_id": "U_kgDODTkXGg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221845274?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jedreekPrograms",
+      "html_url": "https://github.com/jedreekPrograms",
+      "followers_url": "https://api.github.com/users/jedreekPrograms/followers",
+      "following_url": "https://api.github.com/users/jedreekPrograms/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jedreekPrograms/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jedreekPrograms/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jedreekPrograms/subscriptions",
+      "organizations_url": "https://api.github.com/users/jedreekPrograms/orgs",
+      "repos_url": "https://api.github.com/users/jedreekPrograms/repos",
+      "events_url": "https://api.github.com/users/jedreekPrograms/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jedreekPrograms/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "created_at": "2026-08-25T22:51:50Z",
+    "updated_at": "2026-08-25T22:51:50Z",
+    "source": {
+      "type": "issue",
+      "issue": {
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/issues/80",
+        "repository_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker",
+        "labels_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/issues/80/labels{/name}",
+        "comments_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/issues/80/comments",
+        "events_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/issues/80/events",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/pull/80",
+        "id": 5251464454,
+        "node_id": "PR_kwDOSC2AMc8AAAABBAWZ3A",
+        "number": 80,
+        "title": "Finish full-system integrity audit on current main",
+        "user": {
+          "login": "jedreekPrograms",
+          "id": 221845274,
+          "node_id": "U_kgDODTkXGg",
+          "avatar_url": "https://avatars.githubusercontent.com/u/221845274?v=4",
+          "gravatar_id": "",
+          "url": "https://api.github.com/users/jedreekPrograms",
+          "html_url": "https://github.com/jedreekPrograms",
+          "followers_url": "https://api.github.com/users/jedreekPrograms/followers",
+          "following_url": "https://api.github.com/users/jedreekPrograms/following{/other_user}",
+          "gists_url": "https://api.github.com/users/jedreekPrograms/gists{/gist_id}",
+          "starred_url": "https://api.github.com/users/jedreekPrograms/starred{/owner}{/repo}",
+          "subscriptions_url": "https://api.github.com/users/jedreekPrograms/subscriptions",
+          "organizations_url": "https://api.github.com/users/jedreekPrograms/orgs",
+          "repos_url": "https://api.github.com/users/jedreekPrograms/repos",
+          "events_url": "https://api.github.com/users/jedreekPrograms/events{/privacy}",
+          "received_events_url": "https://api.github.com/users/jedreekPrograms/received_events",
+          "type": "User",
+          "user_view_type": "public",
+          "site_admin": false
+        },
+        "labels": [],
+        "state": "closed",
+        "locked": false,
+        "assignees": [],
+        "milestone": null,
+        "comments": 0,
+        "created_at": "2026-08-25T22:51:49Z",
+        "updated_at": "2026-08-25T22:53:51Z",
+        "closed_at": "2026-08-25T22:53:51Z",
+        "assignee": null,
+        "author_association": "OWNER",
+        "active_lock_reason": null,
+        "draft": false,
+        "repository": {
+          "id": 1210941489,
+          "node_id": "R_kgDOSC2AMQ",
+          "name": "VintedOfferTracker",
+          "full_name": "jedreekPrograms/VintedOfferTracker",
+          "private": false,
+          "owner": {
+            "login": "jedreekPrograms",
+            "id": 221845274,
+            "node_id": "U_kgDODTkXGg",
+            "avatar_url": "https://avatars.githubusercontent.com/u/221845274?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/jedreekPrograms",
+            "html_url": "https://github.com/jedreekPrograms",
+            "followers_url": "https://api.github.com/users/jedreekPrograms/followers",
+            "following_url": "https://api.github.com/users/jedreekPrograms/following{/other_user}",
+            "gists_url": "https://api.github.com/users/jedreekPrograms/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/jedreekPrograms/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/jedreekPrograms/subscriptions",
+            "organizations_url": "https://api.github.com/users/jedreekPrograms/orgs",
+            "repos_url": "https://api.github.com/users/jedreekPrograms/repos",
+            "events_url": "https://api.github.com/users/jedreekPrograms/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/jedreekPrograms/received_events",
+            "type": "User",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker",
+          "description": null,
+          "fork": false,
+          "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker",
+          "forks_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/forks",
+          "keys_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/keys{/key_id}",
+          "collaborators_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/collaborators{/collaborator}",
+          "teams_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/teams",
+          "hooks_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/hooks",
+          "issue_events_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/issues/events{/number}",
+          "events_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/events",
+          "assignees_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/assignees{/user}",
+          "branches_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/branches{/branch}",
+          "tags_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/tags",
+          "blobs_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/blobs{/sha}",
+          "git_tags_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/tags{/sha}",
+          "git_refs_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/refs{/sha}",
+          "trees_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees{/sha}",
+          "statuses_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/statuses/{sha}",
+          "languages_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/languages",
+          "stargazers_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/stargazers",
+          "contributors_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/contributors",
+          "subscribers_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/subscribers",
+          "subscription_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/subscription",
+          "commits_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/commits{/sha}",
+          "git_commits_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits{/sha}",
+          "comments_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/comments{/number}",
+          "issue_comment_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/issues/comments{/number}",
+          "contents_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/contents/{+path}",
+          "compare_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/compare/{base}...{head}",
+          "merges_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/merges",
+          "archive_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/{archive_format}{/ref}",
+          "downloads_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/downloads",
+          "issues_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/issues{/number}",
+          "pulls_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/pulls{/number}",
+          "milestones_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/milestones{/number}",
+          "notifications_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/notifications{?since,all,participating}",
+          "labels_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/labels{/name}",
+          "releases_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/releases{/id}",
+          "deployments_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/deployments",
+          "created_at": "2026-04-14T23:09:08Z",
+          "updated_at": "2026-10-13T00:29:57Z",
+          "pushed_at": "2026-10-13T00:27:10Z",
+          "git_url": "git://github.com/jedreekPrograms/VintedOfferTracker.git",
+          "ssh_url": "git@github.com:jedreekPrograms/VintedOfferTracker.git",
+          "clone_url": "https://github.com/jedreekPrograms/VintedOfferTracker.git",
+          "svn_url": "https://github.com/jedreekPrograms/VintedOfferTracker",
+          "homepage": null,
+          "size": 3714,
+          "stargazers_count": 3,
+          "watchers_count": 3,
+          "language": "Java",
+          "has_issues": true,
+          "has_projects": true,
+          "has_downloads": false,
+          "has_wiki": true,
+          "has_pages": false,
+          "has_discussions": false,
+          "forks_count": 0,
+          "mirror_url": null,
+          "archived": false,
+          "disabled": false,
+          "open_issues_count": 4,
+          "license": null,
+          "allow_forking": true,
+          "is_template": false,
+          "web_commit_signoff_required": false,
+          "has_pull_requests": true,
+          "pull_request_creation_policy": "all",
+          "topics": [],
+          "visibility": "public",
+          "forks": 0,
+          "open_issues": 4,
+          "watchers": 3,
+          "default_branch": "main",
+          "permissions": {
+            "admin": true,
+            "maintain": true,
+            "push": true,
+            "triage": true,
+            "pull": true
+          }
+        },
+        "pull_request": {
+          "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/pulls/80",
+          "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/pull/80",
+          "diff_url": "https://github.com/jedreekPrograms/VintedOfferTracker/pull/80.diff",
+          "patch_url": "https://github.com/jedreekPrograms/VintedOfferTracker/pull/80.patch",
+          "merged_at": "2026-08-25T22:53:51Z"
+        },
+        "body": "Ports the validated integrity work from the old #66 audit onto the current post-#79 main without regressing later PRICE_PROBE/history/browser changes.\n\nKey points:\n- durable cross-bot negotiation ownership before FIRST_OFFER\n- safe release/reopen semantics before submit; fail-closed after confirmed/ambiguous submit\n- bot_command deletion cascades\n- per-step read/unread follow-up delays through DB/backend/frontend/Playwright\n- ACTION_REQUIRED no longer consumes automated future-step capacity\n- hidden production per-run negotiation throttles removed unless explicitly configured\n- targeting regressions and Galaxy Tab S11 Ultra coverage\n- old audit migrations renumbered to V33/V34 because current main already owns V30-V32\n- PostgreSQL migration smoke test added to CI\n- keeps the newer main FilterActions implementation/tests instead of overwriting them with the older audit copy\n\nThis PR is intended to be merged immediately once all CI jobs are green; the obsolete #66 will then be closed.",
+        "reactions": {
+          "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/issues/80/reactions",
+          "total_count": 0,
+          "+1": 0,
+          "-1": 0,
+          "laugh": 0,
+          "hooray": 0,
+          "confused": 0,
+          "heart": 0,
+          "rocket": 0,
+          "eyes": 0
+        },
+        "timeline_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/issues/80/timeline",
+        "performed_via_github_app": {
+          "id": 1144995,
+          "client_id": "Iv23liVemv8A9if9v0F2",
+          "slug": "chatgpt-codex-connector",
+          "node_id": "A_kwHOAOQ6Gs4AEXij",
+          "owner": {
+            "login": "openai",
+            "id": 14957082,
+            "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0OTU3MDgy",
+            "avatar_url": "https://avatars.githubusercontent.com/u/14957082?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/openai",
+            "html_url": "https://github.com/openai",
+            "followers_url": "https://api.github.com/users/openai/followers",
+            "following_url": "https://api.github.com/users/openai/following{/other_user}",
+            "gists_url": "https://api.github.com/users/openai/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/openai/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/openai/subscriptions",
+            "organizations_url": "https://api.github.com/users/openai/orgs",
+            "repos_url": "https://api.github.com/users/openai/repos",
+            "events_url": "https://api.github.com/users/openai/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/openai/received_events",
+            "type": "Organization",
+            "user_view_type": "public",
+            "site_admin": false
+          },
+          "name": "ChatGPT Codex Connector",
+          "description": "Bring ChatGPT and Codex to your GitHub repositories.",
+          "external_url": "https://www.chatgpt.com",
+          "html_url": "https://github.com/apps/chatgpt-codex-connector",
+          "created_at": "2025-02-14T01:37:05Z",
+          "updated_at": "2026-09-23T18:52:59Z",
+          "permissions": {
+            "actions": "write",
+            "checks": "read",
+            "contents": "write",
+            "emails": "read",
+            "issues": "write",
+            "metadata": "read",
+            "pull_requests": "write",
+            "statuses": "read",
+            "workflows": "write"
+          },
+          "events": [
+            "check_run",
+            "check_suite",
+            "commit_comment",
+            "issues",
+            "issue_comment",
+            "pull_request",
+            "pull_request_review",
+            "pull_request_review_comment",
+            "pull_request_review_thread",
+            "repository",
+            "status",
+            "sub_issues"
+          ]
+        },
+        "state_reason": null
+      }
+    },
+    "event": "cross-referenced"
+  },
+  {
+    "id": 30010381089,
+    "node_id": "CE_lADOSC2AMc8AAAABNwqTRc8AAAAG_MITIQ",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/issues/events/30010381089",
+    "actor": {
+      "login": "jedreekPrograms",
+      "id": 221845274,
+      "node_id": "U_kgDODTkXGg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221845274?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jedreekPrograms",
+      "html_url": "https://github.com/jedreekPrograms",
+      "followers_url": "https://api.github.com/users/jedreekPrograms/followers",
+      "following_url": "https://api.github.com/users/jedreekPrograms/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jedreekPrograms/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jedreekPrograms/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jedreekPrograms/subscriptions",
+      "organizations_url": "https://api.github.com/users/jedreekPrograms/orgs",
+      "repos_url": "https://api.github.com/users/jedreekPrograms/repos",
+      "events_url": "https://api.github.com/users/jedreekPrograms/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jedreekPrograms/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "event": "closed",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2026-08-25T22:54:02Z",
+    "state_reason": null,
+    "intent": null,
+    "performed_via_github_app": null
+  }
+]

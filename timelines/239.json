@@ -1,0 +1,246 @@
+[
+  {
+    "sha": "f08d748afcf580e728055c2e27b4b31395b9986b",
+    "node_id": "C_kwDOSC2AMdoAKGYwOGQ3NDhhZmNmNTgwZTcyODA1NWMyZTI3YjRiMzEzOTViOTk4NmI",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/f08d748afcf580e728055c2e27b4b31395b9986b",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/f08d748afcf580e728055c2e27b4b31395b9986b",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-18T17:54:55Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-18T17:54:55Z"
+    },
+    "tree": {
+      "sha": "18646f72f9f657e07d96be35a038b3739d13b049",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/18646f72f9f657e07d96be35a038b3739d13b049"
+    },
+    "message": "perf: add read-only quota snapshot and batch ledger reads",
+    "parents": [
+      {
+        "sha": "d5f50bc678b57d7ee99d152f7d36149194b49db7",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/d5f50bc678b57d7ee99d152f7d36149194b49db7",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/d5f50bc678b57d7ee99d152f7d36149194b49db7"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "9144bf53b5ab1323c45ec62e9be41d094bcda7f8",
+    "node_id": "C_kwDOSC2AMdoAKDkxNDRiZjUzYjVhYjEzMjNjNDVlYzYyZTliZTQxZDA5NGJjZGE3Zjg",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/9144bf53b5ab1323c45ec62e9be41d094bcda7f8",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/9144bf53b5ab1323c45ec62e9be41d094bcda7f8",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-18T17:54:59Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-18T17:54:59Z"
+    },
+    "tree": {
+      "sha": "d859fb334b0a8bb10d22ee186db98d0dd4d8df49",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/d859fb334b0a8bb10d22ee186db98d0dd4d8df49"
+    },
+    "message": "perf: keep dashboard quota reads lock-free",
+    "parents": [
+      {
+        "sha": "f08d748afcf580e728055c2e27b4b31395b9986b",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/f08d748afcf580e728055c2e27b4b31395b9986b",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/f08d748afcf580e728055c2e27b4b31395b9986b"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "58ee02a3c86fceec89534e9fcbeb9fed7a0e982d",
+    "node_id": "C_kwDOSC2AMdoAKDU4ZWUwMmEzYzg2ZmNlZWM4OTUzNGU5ZmNiZWI5ZmVkN2EwZTk4MmQ",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/58ee02a3c86fceec89534e9fcbeb9fed7a0e982d",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/58ee02a3c86fceec89534e9fcbeb9fed7a0e982d",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-18T17:55:12Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-18T17:55:12Z"
+    },
+    "tree": {
+      "sha": "4f3b4c7482cc4c049d22cc484747b722185ae82d",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/4f3b4c7482cc4c049d22cc484747b722185ae82d"
+    },
+    "message": "test: keep dashboard quota snapshots read only",
+    "parents": [
+      {
+        "sha": "9144bf53b5ab1323c45ec62e9be41d094bcda7f8",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/9144bf53b5ab1323c45ec62e9be41d094bcda7f8",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/9144bf53b5ab1323c45ec62e9be41d094bcda7f8"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "39513670aeb99aacd67cccce954fa34492c73007",
+    "node_id": "C_kwDOSC2AMdoAKDM5NTEzNjcwYWViOTlhYWNkNjdjY2NjZTk1NGZhMzQ0OTJjNzMwMDc",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/39513670aeb99aacd67cccce954fa34492c73007",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/39513670aeb99aacd67cccce954fa34492c73007",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-18T17:59:00Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-18T17:59:00Z"
+    },
+    "tree": {
+      "sha": "6bb25f34dbaec915de791da70ae2293cb2df3d59",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/6bb25f34dbaec915de791da70ae2293cb2df3d59"
+    },
+    "message": "test: preserve midnight ledger semantics for bulk quota reads",
+    "parents": [
+      {
+        "sha": "58ee02a3c86fceec89534e9fcbeb9fed7a0e982d",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/58ee02a3c86fceec89534e9fcbeb9fed7a0e982d",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/58ee02a3c86fceec89534e9fcbeb9fed7a0e982d"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "36aebe482fce5e816fde7a01964cee28c2424099",
+    "node_id": "C_kwDOSC2AMdoAKDM2YWViZTQ4MmZjZTVlODE2ZmRlN2EwMTk2NGNlZTI4YzI0MjQwOTk",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/36aebe482fce5e816fde7a01964cee28c2424099",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/36aebe482fce5e816fde7a01964cee28c2424099",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-18T17:59:03Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-18T17:59:03Z"
+    },
+    "tree": {
+      "sha": "266cf2c530e5a6bbd384c55165683859f0a599dc",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/266cf2c530e5a6bbd384c55165683859f0a599dc"
+    },
+    "message": "test: use read-only quota snapshot in daily activity",
+    "parents": [
+      {
+        "sha": "39513670aeb99aacd67cccce954fa34492c73007",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/39513670aeb99aacd67cccce954fa34492c73007",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/39513670aeb99aacd67cccce954fa34492c73007"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "id": 31408188458,
+    "node_id": "ME_lADOSC2AMc8AAAABR_9SA88AAAAHUBLsKg",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/issues/events/31408188458",
+    "actor": {
+      "login": "jedreekPrograms",
+      "id": 221845274,
+      "node_id": "U_kgDODTkXGg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221845274?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jedreekPrograms",
+      "html_url": "https://github.com/jedreekPrograms",
+      "followers_url": "https://api.github.com/users/jedreekPrograms/followers",
+      "following_url": "https://api.github.com/users/jedreekPrograms/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jedreekPrograms/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jedreekPrograms/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jedreekPrograms/subscriptions",
+      "organizations_url": "https://api.github.com/users/jedreekPrograms/orgs",
+      "repos_url": "https://api.github.com/users/jedreekPrograms/repos",
+      "events_url": "https://api.github.com/users/jedreekPrograms/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jedreekPrograms/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "event": "merged",
+    "commit_id": "0f0cff00aebcb3fb50cc9441d3ac854d82b9946f",
+    "commit_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/commits/0f0cff00aebcb3fb50cc9441d3ac854d82b9946f",
+    "created_at": "2026-09-18T18:01:00Z",
+    "performed_via_github_app": null
+  },
+  {
+    "id": 31408188541,
+    "node_id": "CE_lADOSC2AMc8AAAABR_9SA88AAAAHUBLsfQ",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/issues/events/31408188541",
+    "actor": {
+      "login": "jedreekPrograms",
+      "id": 221845274,
+      "node_id": "U_kgDODTkXGg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221845274?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jedreekPrograms",
+      "html_url": "https://github.com/jedreekPrograms",
+      "followers_url": "https://api.github.com/users/jedreekPrograms/followers",
+      "following_url": "https://api.github.com/users/jedreekPrograms/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jedreekPrograms/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jedreekPrograms/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jedreekPrograms/subscriptions",
+      "organizations_url": "https://api.github.com/users/jedreekPrograms/orgs",
+      "repos_url": "https://api.github.com/users/jedreekPrograms/repos",
+      "events_url": "https://api.github.com/users/jedreekPrograms/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jedreekPrograms/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "event": "closed",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2026-09-18T18:01:00Z",
+    "state_reason": null,
+    "intent": null,
+    "performed_via_github_app": null
+  }
+]

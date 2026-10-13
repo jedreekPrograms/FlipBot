@@ -1,0 +1,246 @@
+[
+  {
+    "sha": "aa4dacd384702eefad7ad788f34ef02946909bed",
+    "node_id": "C_kwDOSC2AMdoAKGFhNGRhY2QzODQ3MDJlZWZhZDdhZDc4OGYzNGVmMDI5NDY5MDliZWQ",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/aa4dacd384702eefad7ad788f34ef02946909bed",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/aa4dacd384702eefad7ad788f34ef02946909bed",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-15T10:32:39Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-15T10:32:39Z"
+    },
+    "tree": {
+      "sha": "a5b5d34884c39a9f36360130d8361076125642fb",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/a5b5d34884c39a9f36360130d8361076125642fb"
+    },
+    "message": "fix: retire excess worker slots gracefully",
+    "parents": [
+      {
+        "sha": "2204fc6fc6adc45365dc42c1541ba26311e6cc33",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/2204fc6fc6adc45365dc42c1541ba26311e6cc33",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/2204fc6fc6adc45365dc42c1541ba26311e6cc33"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "475e66a8a5fe505b4c3139c0167899acd333ab20",
+    "node_id": "C_kwDOSC2AMdoAKDQ3NWU2NmE4YTVmZTUwNWI0YzMxMzljMDE2Nzg5OWFjZDMzM2FiMjA",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/475e66a8a5fe505b4c3139c0167899acd333ab20",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/475e66a8a5fe505b4c3139c0167899acd333ab20",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-15T10:33:13Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-15T10:33:13Z"
+    },
+    "tree": {
+      "sha": "97f62c9fdb45ec9acfb011595a4c5a17310b3a5c",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/97f62c9fdb45ec9acfb011595a4c5a17310b3a5c"
+    },
+    "message": "fix: let idle worker slots retire cleanly",
+    "parents": [
+      {
+        "sha": "aa4dacd384702eefad7ad788f34ef02946909bed",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/aa4dacd384702eefad7ad788f34ef02946909bed",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/aa4dacd384702eefad7ad788f34ef02946909bed"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "436bf4a3b09dc6afd4fd82fd4155a3fa7263b09c",
+    "node_id": "C_kwDOSC2AMdoAKDQzNmJmNGEzYjA5ZGM2YWZkNGZkODJmZDQxNTVhM2ZhNzI2M2IwOWM",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/436bf4a3b09dc6afd4fd82fd4155a3fa7263b09c",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/436bf4a3b09dc6afd4fd82fd4155a3fa7263b09c",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-15T10:33:21Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-15T10:33:21Z"
+    },
+    "tree": {
+      "sha": "fe1518aa4951de558eaf038512cf57322e18457b",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/fe1518aa4951de558eaf038512cf57322e18457b"
+    },
+    "message": "refactor: calculate worker slot scale changes",
+    "parents": [
+      {
+        "sha": "475e66a8a5fe505b4c3139c0167899acd333ab20",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/475e66a8a5fe505b4c3139c0167899acd333ab20",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/475e66a8a5fe505b4c3139c0167899acd333ab20"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "5d2482a99dbea593664dc7059bd379de233b3f0e",
+    "node_id": "C_kwDOSC2AMdoAKDVkMjQ4MmE5OWRiZWE1OTM2NjRkYzcwNTliZDM3OWRlMjMzYjNmMGU",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/5d2482a99dbea593664dc7059bd379de233b3f0e",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/5d2482a99dbea593664dc7059bd379de233b3f0e",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-15T10:33:30Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-15T10:33:30Z"
+    },
+    "tree": {
+      "sha": "1a1e7c199ebcde6df44fcb4eb70955e77bce4532",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/1a1e7c199ebcde6df44fcb4eb70955e77bce4532"
+    },
+    "message": "test: cover worker slot scale plan",
+    "parents": [
+      {
+        "sha": "436bf4a3b09dc6afd4fd82fd4155a3fa7263b09c",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/436bf4a3b09dc6afd4fd82fd4155a3fa7263b09c",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/436bf4a3b09dc6afd4fd82fd4155a3fa7263b09c"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "c632fa6e519d4077c14ad119a94fb34008f101d3",
+    "node_id": "C_kwDOSC2AMdoAKGM2MzJmYTZlNTE5ZDQwNzdjMTRhZDExOWE5NGZiMzQwMDhmMTAxZDM",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/c632fa6e519d4077c14ad119a94fb34008f101d3",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/c632fa6e519d4077c14ad119a94fb34008f101d3",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-15T10:33:40Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-09-15T10:33:40Z"
+    },
+    "tree": {
+      "sha": "756857c1273af014ed6e6eb57b0e9eacb65764df",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/756857c1273af014ed6e6eb57b0e9eacb65764df"
+    },
+    "message": "test: cover graceful idle slot retirement",
+    "parents": [
+      {
+        "sha": "5d2482a99dbea593664dc7059bd379de233b3f0e",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/5d2482a99dbea593664dc7059bd379de233b3f0e",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/5d2482a99dbea593664dc7059bd379de233b3f0e"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "id": 31165652600,
+    "node_id": "ME_lADOSC2AMc8AAAABRXyTS88AAAAHQZ4eeA",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/issues/events/31165652600",
+    "actor": {
+      "login": "jedreekPrograms",
+      "id": 221845274,
+      "node_id": "U_kgDODTkXGg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221845274?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jedreekPrograms",
+      "html_url": "https://github.com/jedreekPrograms",
+      "followers_url": "https://api.github.com/users/jedreekPrograms/followers",
+      "following_url": "https://api.github.com/users/jedreekPrograms/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jedreekPrograms/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jedreekPrograms/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jedreekPrograms/subscriptions",
+      "organizations_url": "https://api.github.com/users/jedreekPrograms/orgs",
+      "repos_url": "https://api.github.com/users/jedreekPrograms/repos",
+      "events_url": "https://api.github.com/users/jedreekPrograms/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jedreekPrograms/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "event": "merged",
+    "commit_id": "8cfdad863fcbb4c581629793c900eec78b62077e",
+    "commit_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/commits/8cfdad863fcbb4c581629793c900eec78b62077e",
+    "created_at": "2026-09-15T10:36:49Z",
+    "performed_via_github_app": null
+  },
+  {
+    "id": 31165652695,
+    "node_id": "CE_lADOSC2AMc8AAAABRXyTS88AAAAHQZ4e1w",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/issues/events/31165652695",
+    "actor": {
+      "login": "jedreekPrograms",
+      "id": 221845274,
+      "node_id": "U_kgDODTkXGg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221845274?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jedreekPrograms",
+      "html_url": "https://github.com/jedreekPrograms",
+      "followers_url": "https://api.github.com/users/jedreekPrograms/followers",
+      "following_url": "https://api.github.com/users/jedreekPrograms/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jedreekPrograms/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jedreekPrograms/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jedreekPrograms/subscriptions",
+      "organizations_url": "https://api.github.com/users/jedreekPrograms/orgs",
+      "repos_url": "https://api.github.com/users/jedreekPrograms/repos",
+      "events_url": "https://api.github.com/users/jedreekPrograms/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jedreekPrograms/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "event": "closed",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2026-09-15T10:36:49Z",
+    "state_reason": null,
+    "intent": null,
+    "performed_via_github_app": null
+  }
+]

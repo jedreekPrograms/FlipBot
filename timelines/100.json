@@ -1,0 +1,246 @@
+[
+  {
+    "sha": "71bb556562c112402779eb9175b916098c96469e",
+    "node_id": "C_kwDOSC2AMdoAKDcxYmI1NTY1NjJjMTEyNDAyNzc5ZWI5MTc1YjkxNjA5OGM5NjQ2OWU",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/71bb556562c112402779eb9175b916098c96469e",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/71bb556562c112402779eb9175b916098c96469e",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-26T18:28:25Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-26T18:28:25Z"
+    },
+    "tree": {
+      "sha": "230084695f60d7cbe22c784d37405b8b4219ca34",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/230084695f60d7cbe22c784d37405b8b4219ca34"
+    },
+    "message": "Make negotiation response policies container responsive",
+    "parents": [
+      {
+        "sha": "62785004fdeb19095c3e833af4d8e03a775bdd7c",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/62785004fdeb19095c3e833af4d8e03a775bdd7c",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/62785004fdeb19095c3e833af4d8e03a775bdd7c"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "fcb1609d261029e3fae43b20d34acd2556a25d9e",
+    "node_id": "C_kwDOSC2AMdoAKGZjYjE2MDlkMjYxMDI5ZTNmYWU0M2IyMGQzNGFjZDI1NTZhMjVkOWU",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/fcb1609d261029e3fae43b20d34acd2556a25d9e",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/fcb1609d261029e3fae43b20d34acd2556a25d9e",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-26T18:29:11Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-26T18:29:11Z"
+    },
+    "tree": {
+      "sha": "2a711e5e619e5c4c4018aea8c53c84cdc1c127c3",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/2a711e5e619e5c4c4018aea8c53c84cdc1c127c3"
+    },
+    "message": "Make page layouts respond to available width",
+    "parents": [
+      {
+        "sha": "71bb556562c112402779eb9175b916098c96469e",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/71bb556562c112402779eb9175b916098c96469e",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/71bb556562c112402779eb9175b916098c96469e"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "bddde012c5a54a58967f4dbe1481373b577c4f81",
+    "node_id": "C_kwDOSC2AMdoAKGJkZGRlMDEyYzVhNTRhNTg5NjdmNGRiZTE0ODEzNzNiNTc3YzRmODE",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/bddde012c5a54a58967f4dbe1481373b577c4f81",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/bddde012c5a54a58967f4dbe1481373b577c4f81",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-26T18:29:33Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-26T18:29:33Z"
+    },
+    "tree": {
+      "sha": "0ad62f922c23a92ee8d5996a2b637da9e90d11ff",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/0ad62f922c23a92ee8d5996a2b637da9e90d11ff"
+    },
+    "message": "Make market observer card container responsive",
+    "parents": [
+      {
+        "sha": "fcb1609d261029e3fae43b20d34acd2556a25d9e",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/fcb1609d261029e3fae43b20d34acd2556a25d9e",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/fcb1609d261029e3fae43b20d34acd2556a25d9e"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "1355cb09735f804a3d9378278b085fbf78464095",
+    "node_id": "C_kwDOSC2AMdoAKDEzNTVjYjA5NzM1ZjgwNGEzZDkzNzgyNzhiMDg1ZmJmNzg0NjQwOTU",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/1355cb09735f804a3d9378278b085fbf78464095",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/1355cb09735f804a3d9378278b085fbf78464095",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-26T18:29:57Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-26T18:29:57Z"
+    },
+    "tree": {
+      "sha": "07f4aaff2a5c6f0557ab15c6b644569517353954",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/07f4aaff2a5c6f0557ab15c6b644569517353954"
+    },
+    "message": "Harden history cards against narrow containers",
+    "parents": [
+      {
+        "sha": "bddde012c5a54a58967f4dbe1481373b577c4f81",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/bddde012c5a54a58967f4dbe1481373b577c4f81",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/bddde012c5a54a58967f4dbe1481373b577c4f81"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "6d8e031dbcd76c62014ebce2df87b99ab2d17ed2",
+    "node_id": "C_kwDOSC2AMdoAKDZkOGUwMzFkYmNkNzZjNjIwMTRlYmNlMmRmODdiOTlhYjJkMTdlZDI",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/6d8e031dbcd76c62014ebce2df87b99ab2d17ed2",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/6d8e031dbcd76c62014ebce2df87b99ab2d17ed2",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-26T18:31:37Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-26T18:31:37Z"
+    },
+    "tree": {
+      "sha": "0f2478b9b9afe9a63c474141645bf1f1d454c7e2",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/0f2478b9b9afe9a63c474141645bf1f1d454c7e2"
+    },
+    "message": "Make price matrix switch layout by card width",
+    "parents": [
+      {
+        "sha": "1355cb09735f804a3d9378278b085fbf78464095",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/1355cb09735f804a3d9378278b085fbf78464095",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/1355cb09735f804a3d9378278b085fbf78464095"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "id": 30061536494,
+    "node_id": "ME_lADOSC2AMc8AAAABOYk4p88AAAAG_86k7g",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/issues/events/30061536494",
+    "actor": {
+      "login": "jedreekPrograms",
+      "id": 221845274,
+      "node_id": "U_kgDODTkXGg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221845274?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jedreekPrograms",
+      "html_url": "https://github.com/jedreekPrograms",
+      "followers_url": "https://api.github.com/users/jedreekPrograms/followers",
+      "following_url": "https://api.github.com/users/jedreekPrograms/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jedreekPrograms/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jedreekPrograms/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jedreekPrograms/subscriptions",
+      "organizations_url": "https://api.github.com/users/jedreekPrograms/orgs",
+      "repos_url": "https://api.github.com/users/jedreekPrograms/repos",
+      "events_url": "https://api.github.com/users/jedreekPrograms/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jedreekPrograms/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "event": "merged",
+    "commit_id": "07c13cc8c7fba83dea4fe5f55184768669a886ce",
+    "commit_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/commits/07c13cc8c7fba83dea4fe5f55184768669a886ce",
+    "created_at": "2026-08-26T18:36:46Z",
+    "performed_via_github_app": null
+  },
+  {
+    "id": 30061536554,
+    "node_id": "CE_lADOSC2AMc8AAAABOYk4p88AAAAG_86lKg",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/issues/events/30061536554",
+    "actor": {
+      "login": "jedreekPrograms",
+      "id": 221845274,
+      "node_id": "U_kgDODTkXGg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221845274?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jedreekPrograms",
+      "html_url": "https://github.com/jedreekPrograms",
+      "followers_url": "https://api.github.com/users/jedreekPrograms/followers",
+      "following_url": "https://api.github.com/users/jedreekPrograms/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jedreekPrograms/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jedreekPrograms/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jedreekPrograms/subscriptions",
+      "organizations_url": "https://api.github.com/users/jedreekPrograms/orgs",
+      "repos_url": "https://api.github.com/users/jedreekPrograms/repos",
+      "events_url": "https://api.github.com/users/jedreekPrograms/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jedreekPrograms/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "event": "closed",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2026-08-26T18:36:46Z",
+    "state_reason": null,
+    "intent": null,
+    "performed_via_github_app": null
+  }
+]

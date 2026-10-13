@@ -1,0 +1,288 @@
+[
+  {
+    "sha": "9588356d5a654644bce72d002a088304f1bfcf07",
+    "node_id": "C_kwDOSC2AMdoAKDk1ODgzNTZkNWE2NTQ2NDRiY2U3MmQwMDJhMDg4MzA0ZjFiZmNmMDc",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/9588356d5a654644bce72d002a088304f1bfcf07",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/9588356d5a654644bce72d002a088304f1bfcf07",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-15T21:48:26Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-15T21:48:26Z"
+    },
+    "tree": {
+      "sha": "e4c8e045002e231be2a5ffa1d24dfcff154375e1",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/e4c8e045002e231be2a5ffa1d24dfcff154375e1"
+    },
+    "message": "Carlisle: expose rolling 24h market offers",
+    "parents": [
+      {
+        "sha": "670e7f69ba2144e25ef5ac75870f1ce73c0faaa5",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/670e7f69ba2144e25ef5ac75870f1ce73c0faaa5",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/670e7f69ba2144e25ef5ac75870f1ce73c0faaa5"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "00d148d95f7833ea076e26956df3e0cedf2e733e",
+    "node_id": "C_kwDOSC2AMdoAKDAwZDE0OGQ5NWY3ODMzZWEwNzZlMjY5NTZkZjNlMGNlZGYyZTczM2U",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/00d148d95f7833ea076e26956df3e0cedf2e733e",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/00d148d95f7833ea076e26956df3e0cedf2e733e",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-15T21:48:52Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-15T21:48:52Z"
+    },
+    "tree": {
+      "sha": "c257d93ca8e9edcd7cae8dd39329b8ec057a6be0",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/c257d93ca8e9edcd7cae8dd39329b8ec057a6be0"
+    },
+    "message": "Carlisle: calculate rolling 24h market offers",
+    "parents": [
+      {
+        "sha": "9588356d5a654644bce72d002a088304f1bfcf07",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/9588356d5a654644bce72d002a088304f1bfcf07",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/9588356d5a654644bce72d002a088304f1bfcf07"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "aff7940337d410695c17c7b6db3deeeca6df7cb3",
+    "node_id": "C_kwDOSC2AMdoAKGFmZjc5NDAzMzdkNDEwNjk1YzE3YzdiNmRiM2RlZWVjYTZkZjdjYjM",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/aff7940337d410695c17c7b6db3deeeca6df7cb3",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/aff7940337d410695c17c7b6db3deeeca6df7cb3",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-15T21:48:56Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-15T21:48:56Z"
+    },
+    "tree": {
+      "sha": "ae17df784e09385bf45fdf3c97242bde5f69f9c5",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/ae17df784e09385bf45fdf3c97242bde5f69f9c5"
+    },
+    "message": "Carlisle: add 24h market metric type",
+    "parents": [
+      {
+        "sha": "00d148d95f7833ea076e26956df3e0cedf2e733e",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/00d148d95f7833ea076e26956df3e0cedf2e733e",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/00d148d95f7833ea076e26956df3e0cedf2e733e"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "99f612d5c799ad0db23c2819d2a71fd8d5751666",
+    "node_id": "C_kwDOSC2AMdoAKDk5ZjYxMmQ1Yzc5OWFkMGRiMjNjMjgxOWQyYTcxZmQ4ZDU3NTE2NjY",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/99f612d5c799ad0db23c2819d2a71fd8d5751666",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/99f612d5c799ad0db23c2819d2a71fd8d5751666",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-15T21:49:34Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-15T21:49:34Z"
+    },
+    "tree": {
+      "sha": "a901d20025bcb5d84537237bf3d641537b4971b2",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/a901d20025bcb5d84537237bf3d641537b4971b2"
+    },
+    "message": "Carlisle: show rolling 24h market offers",
+    "parents": [
+      {
+        "sha": "aff7940337d410695c17c7b6db3deeeca6df7cb3",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/aff7940337d410695c17c7b6db3deeeca6df7cb3",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/aff7940337d410695c17c7b6db3deeeca6df7cb3"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "sha": "e756ee9d3e1a71c9bf783816762f30c950c70a4d",
+    "node_id": "C_kwDOSC2AMdoAKGU3NTZlZTlkM2UxYTcxYzliZjc4MzgxNjc2MmYzMGM5NTBjNzBhNGQ",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/e756ee9d3e1a71c9bf783816762f30c950c70a4d",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/e756ee9d3e1a71c9bf783816762f30c950c70a4d",
+    "author": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-15T21:49:48Z"
+    },
+    "committer": {
+      "name": "Jędrzej Stefanowski",
+      "email": "jedreek323@gmail.com",
+      "date": "2026-08-15T21:49:48Z"
+    },
+    "tree": {
+      "sha": "2a8d83b3cd764087e649e0537932c058ded88040",
+      "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/trees/2a8d83b3cd764087e649e0537932c058ded88040"
+    },
+    "message": "Carlisle: fit 24h metric into price matrix",
+    "parents": [
+      {
+        "sha": "99f612d5c799ad0db23c2819d2a71fd8d5751666",
+        "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/git/commits/99f612d5c799ad0db23c2819d2a71fd8d5751666",
+        "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/commit/99f612d5c799ad0db23c2819d2a71fd8d5751666"
+      }
+    ],
+    "verification": {
+      "verified": false,
+      "reason": "unsigned",
+      "signature": null,
+      "payload": null,
+      "verified_at": null
+    },
+    "event": "committed"
+  },
+  {
+    "id": 29508998650,
+    "node_id": "ME_lADOSC2AMc8AAAABM6XqOc8AAAAG3t-V-g",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/issues/events/29508998650",
+    "actor": {
+      "login": "jedreekPrograms",
+      "id": 221845274,
+      "node_id": "U_kgDODTkXGg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221845274?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jedreekPrograms",
+      "html_url": "https://github.com/jedreekPrograms",
+      "followers_url": "https://api.github.com/users/jedreekPrograms/followers",
+      "following_url": "https://api.github.com/users/jedreekPrograms/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jedreekPrograms/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jedreekPrograms/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jedreekPrograms/subscriptions",
+      "organizations_url": "https://api.github.com/users/jedreekPrograms/orgs",
+      "repos_url": "https://api.github.com/users/jedreekPrograms/repos",
+      "events_url": "https://api.github.com/users/jedreekPrograms/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jedreekPrograms/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "event": "merged",
+    "commit_id": "b091b540588b846e5646c5fcceb9b7797983a713",
+    "commit_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/commits/b091b540588b846e5646c5fcceb9b7797983a713",
+    "created_at": "2026-08-15T21:50:23Z",
+    "performed_via_github_app": null
+  },
+  {
+    "id": 29508998666,
+    "node_id": "CE_lADOSC2AMc8AAAABM6XqOc8AAAAG3t-WCg",
+    "url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/issues/events/29508998666",
+    "actor": {
+      "login": "jedreekPrograms",
+      "id": 221845274,
+      "node_id": "U_kgDODTkXGg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221845274?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jedreekPrograms",
+      "html_url": "https://github.com/jedreekPrograms",
+      "followers_url": "https://api.github.com/users/jedreekPrograms/followers",
+      "following_url": "https://api.github.com/users/jedreekPrograms/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jedreekPrograms/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jedreekPrograms/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jedreekPrograms/subscriptions",
+      "organizations_url": "https://api.github.com/users/jedreekPrograms/orgs",
+      "repos_url": "https://api.github.com/users/jedreekPrograms/repos",
+      "events_url": "https://api.github.com/users/jedreekPrograms/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jedreekPrograms/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "event": "closed",
+    "commit_id": null,
+    "commit_url": null,
+    "created_at": "2026-08-15T21:50:23Z",
+    "state_reason": null,
+    "intent": null,
+    "performed_via_github_app": null
+  },
+  {
+    "id": 4945128945,
+    "node_id": "PRR_kwDOSC2AMc8AAAABJsCt8Q",
+    "user": {
+      "login": "jedreekPrograms",
+      "id": 221845274,
+      "node_id": "U_kgDODTkXGg",
+      "avatar_url": "https://avatars.githubusercontent.com/u/221845274?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jedreekPrograms",
+      "html_url": "https://github.com/jedreekPrograms",
+      "followers_url": "https://api.github.com/users/jedreekPrograms/followers",
+      "following_url": "https://api.github.com/users/jedreekPrograms/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jedreekPrograms/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jedreekPrograms/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jedreekPrograms/subscriptions",
+      "organizations_url": "https://api.github.com/users/jedreekPrograms/orgs",
+      "repos_url": "https://api.github.com/users/jedreekPrograms/repos",
+      "events_url": "https://api.github.com/users/jedreekPrograms/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jedreekPrograms/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "body": "ok",
+    "commit_id": "e756ee9d3e1a71c9bf783816762f30c950c70a4d",
+    "state": "commented",
+    "html_url": "https://github.com/jedreekPrograms/VintedOfferTracker/pull/34#pullrequestreview-4945128945",
+    "pull_request_url": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/pulls/34",
+    "_links": {
+      "html": {
+        "href": "https://github.com/jedreekPrograms/VintedOfferTracker/pull/34#pullrequestreview-4945128945"
+      },
+      "pull_request": {
+        "href": "https://api.github.com/repos/jedreekPrograms/VintedOfferTracker/pulls/34"
+      }
+    },
+    "submitted_at": "2026-08-16T01:34:09Z",
+    "updated_at": "2026-08-16T01:34:09Z",
+    "author_association": "OWNER",
+    "event": "reviewed"
+  }
+]
