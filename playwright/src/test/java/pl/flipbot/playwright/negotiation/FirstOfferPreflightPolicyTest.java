@@ -30,6 +30,8 @@ public class FirstOfferPreflightPolicyTest {
     @Test
     public void missingRequiredListingIdentityFailsBeforeBrowserAccess() {
         ListingResponseDto noId = mock(ListingResponseDto.class);
+        // Mockito may return 0L for an unstubbed boxed Long; explicitly model null.
+        when(noId.id()).thenReturn((Long) null);
         assertTrue(assertThrows(IllegalArgumentException.class,
                 () -> policy.validateListing(noId)).getMessage().contains("Backend listing id"));
         ListingResponseDto noMarketplaceId = mock(ListingResponseDto.class);
