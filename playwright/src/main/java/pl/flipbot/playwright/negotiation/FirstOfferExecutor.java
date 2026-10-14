@@ -37,9 +37,6 @@ public class FirstOfferExecutor {
     private static final double MODAL_CLOSE_TIMEOUT_MS =
             3_000;
 
-    private static final double CHAT_ELEMENT_TIMEOUT_MS =
-            20_000;
-
     private final BotContext context;
 
     private final ListingClient listingClient;
@@ -460,7 +457,7 @@ public class FirstOfferExecutor {
                 updatedListing.currentPrice()
         );
 
-        verifySubmittedOfferSafely(
+        new FirstOfferPostSubmitObservation().verifySubmittedOfferSafely(
                 page,
                 listing,
                 offer.offerPrice()
@@ -870,120 +867,10 @@ public class FirstOfferExecutor {
 
 
 
-    private void verifySubmittedOfferSafely(
-            Page page,
-            ListingResponseDto listing,
-            BigDecimal expectedPrice
-    ) {
-
-        try {
-
-            Locator ownOfferPrice =
-                    page.getByTestId(
-                                    NegotiationSelectors.OWN_OFFER_PRICE
-                            )
-                            .last();
-
-            ownOfferPrice.waitFor(
-                    new Locator.WaitForOptions()
-                            .setState(
-                                    WaitForSelectorState.VISIBLE
-                            )
-                            .setTimeout(
-                                    CHAT_ELEMENT_TIMEOUT_MS
-                            )
-            );
-
-            String rawPrice =
-                    ownOfferPrice.innerText();
-
-            BigDecimal actualPrice =
-                    parsePrice(
-                            rawPrice
-                    );
-
-            if (
-                    expectedPrice.compareTo(
-                            actualPrice
-                    ) != 0
-            ) {
-
-                log.error(
-                        "[REAL OFFER] Submitted offer price does not match. "
-                                + "Backend listing={}, expected={}, "
-                                + "displayed={}, raw='{}'.",
-                        listing.id(),
-                        expectedPrice,
-                        actualPrice,
-                        rawPrice
-                );
-
-            } else {
-
-                log.info(
-                        "[REAL OFFER] Submitted offer price confirmed in "
-                                + "conversation: {}.",
-                        actualPrice
-                );
-            }
-
-            logOwnOfferStatus(
-                    page
-            );
-
-        } catch (Exception exception) {
-
-            log.warn(
-                    "[REAL OFFER] Could not fully verify submitted offer "
-                            + "inside conversation for marketplace listing {}. "
-                            + "Backend remains NEGOTIATING.",
-                    listing.listingId()
-            );
-
-            log.trace(
-                    "[REAL OFFER] Full submitted-offer verification error.",
-                    exception
-            );
-        }
-    }
 
 
-    private void logOwnOfferStatus(
-            Page page
-    ) {
 
-        Locator ownOfferStatus =
-                page.getByTestId(
-                                NegotiationSelectors.OWN_OFFER_STATUS
-                        )
-                        .last();
 
-        try {
-
-            ownOfferStatus.waitFor(
-                    new Locator.WaitForOptions()
-                            .setState(
-                                    WaitForSelectorState.VISIBLE
-                            )
-                            .setTimeout(
-                                    CHAT_ELEMENT_TIMEOUT_MS
-                            )
-            );
-
-            log.info(
-                    "[REAL OFFER] Current own-offer status displayed by "
-                            + "Vinted: {}",
-                    ownOfferStatus.innerText()
-            );
-
-        } catch (TimeoutError exception) {
-
-            log.warn(
-                    "[REAL OFFER] Own-offer status did not become visible "
-                            + "inside conversation."
-            );
-        }
-    }
 
 
 
