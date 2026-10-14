@@ -96,7 +96,8 @@ public class FirstOfferFormPreparationTest {
         verify(input).fill("1000.00");
         verify(input).press("Tab");
         verify(keyboard).press("Escape");
-        verify(input).waitFor(any(Locator.WaitForOptions.class));
+        // Once for filling (VISIBLE), once for closing the rejected form (HIDDEN).
+        verify(input, times(2)).waitFor(any(Locator.WaitForOptions.class));
         verify(page, never()).getByTestId(NegotiationSelectors.OFFER_SUBMIT_BUTTON);
     }
 
