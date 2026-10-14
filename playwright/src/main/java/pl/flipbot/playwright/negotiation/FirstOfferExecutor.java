@@ -271,101 +271,11 @@ public class FirstOfferExecutor {
     public void assertPreparedOfferReady(
             ListingResponseDto listing
     ) {
-
-        requireMatchingPreparedOffer(
-                listing
-        );
-
-        Page page =
-                context.getPage();
-
-        if (
-                !listingReadiness.isCurrentListingPage(
-                        page,
-                        listing.listingId()
-                )
-        ) {
-
-            throw new IllegalStateException(
-                    "Prepared offer page changed before quota reservation. "
-                            + "Marketplace listing: "
-                            + listing.listingId()
-                            + ", current URL: "
-                            + page.url()
-            );
-        }
-
-        Locator priceInput =
-                page.getByTestId(
-                                NegotiationSelectors.OFFER_PRICE_INPUT
-                        )
-                        .first();
-
-        if (
-                !priceInput.isVisible()
-        ) {
-
-            throw new IllegalStateException(
-                    "Offer form disappeared before quota reservation for "
-                            + "marketplace listing "
-                            + listing.listingId()
-            );
-        }
-
-        String expectedPrice =
-                preparedOffer.offerPrice()
-                        .toPlainString();
-
-        String actualPrice =
-                priceInput.inputValue();
-
-        if (
-                !expectedPrice.equals(
-                        actualPrice
-                )
-        ) {
-
-            throw new IllegalStateException(
-                    "Prepared offer price changed before quota reservation. "
-                            + "Expected: "
-                            + expectedPrice
-                            + ", actual: "
-                            + actualPrice
-            );
-        }
-
-        Locator submitButton =
-                page.getByTestId(
-                                NegotiationSelectors.OFFER_SUBMIT_BUTTON
-                        )
-                        .first();
-
-        submitButton.waitFor(
-                new Locator.WaitForOptions()
-                        .setState(
-                                WaitForSelectorState.VISIBLE
-                        )
-                        .setTimeout(
-                                ELEMENT_TIMEOUT_MS
-                        )
-        );
-
-        if (
-                !submitButton.isEnabled()
-        ) {
-
-            throw new IllegalStateException(
-                    "Offer submit button is disabled before quota reservation "
-                            + "for marketplace listing "
-                            + listing.listingId()
-            );
-        }
-
-        log.info(
-                "[REAL OFFER PREPARE] Final pre-quota check passed for "
-                        + "marketplace listing {}.",
-                listing.listingId()
-        );
+        requireMatchingPreparedOffer(listing);
+        Page page = context.getPage();
+        // Still the final UI/identity check BEFORE reserveSlot(); no submit.
+        new FirstOfferPreparedFormGuard(listingReadiness)
+                .assertReady(page, listing, preparedOffer.offerPrice());
     }
 
 
