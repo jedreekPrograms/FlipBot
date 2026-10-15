@@ -1,4 +1,4 @@
-# FlipBot — Java Marketplace Automation
+# FlipBot — Vinted Automation Platform
 
 A Java/Spring Boot application for monitoring marketplace listings, coordinating browser workers and managing persistent negotiation workflows. The project combines a PostgreSQL-backed API, a React dashboard, a Java Playwright runtime and a mobile companion.
 
