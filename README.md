@@ -164,8 +164,3 @@ FLIPBOT_SCHEDULER_HEADLESS
 - Extend regression coverage and runtime tracing.
 - Improve deployment packaging and the screenshot gallery.
 
-## Project history and scope
-
-FlipBot was migrated from VintedOfferTracker. Original pull-request records are preserved in the [history archive](https://github.com/jedreekPrograms/FlipBot/tree/archive/github-pr-history); historical PR numbers in imported messages refer to that archive.
-
-FlipBot is an independent project and is not affiliated with Vinted. Marketplace integration depends on an external website and its rules; the project does not guarantee uninterrupted access.
