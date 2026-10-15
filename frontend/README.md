@@ -1,75 +1,31 @@
-# React + TypeScript + Vite
+# FlipBot Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+React and TypeScript dashboard for [FlipBot](../README.md). It provides the operator interface for bot configuration, listing history, negotiation settings, market statistics and runtime monitoring.
 
-Currently, two official plugins are available:
+**Status:** part of the actively developed FlipBot application. The [root README](../README.md) contains the application demo, architecture and backend setup requirements.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Local development
 
-## React Compiler
+Requirements: Node.js 22+, npm, and a configured FlipBot backend listening on `localhost:8081`.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
-
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
-
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-
+```shell
+npm ci
+npm run dev
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+Run these commands from `frontend/`. Vite proxies `/api` requests to `http://localhost:8081` as configured in [vite.config.ts](vite.config.ts).
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+## Checks and production build
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-
+```shell
+npm run lint
+npm run build
 ```
+
+The build runs TypeScript compilation followed by Vite and writes static output to `dist/`. `npm run preview` serves the built frontend locally; it is not a replacement for the backend or a production deployment configuration.
+
+## Relationship to the mobile app
+
+[FlipBot Mobile](../mobile/README.md) displays the same dashboard through a WebView. Building this module alone does not automatically update a dashboard bundle already packaged into the backend.
+
+See [package.json](package.json) for the actual scripts and dependencies and [CI](../.github/workflows/ci.yml) for automated validation.

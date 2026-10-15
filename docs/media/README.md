@@ -1,43 +1,25 @@
-# FlipBot demo media
+# FlipBot Demo Media
 
-This directory is reserved for lightweight public assets used by the root project README.
+Public media for the [project README](../../README.md).
 
-## Full demo
+## Existing walkthrough
 
-The polished FlipBot walkthrough is published on YouTube:
+[Watch the complete 2:34 FlipBot demo](https://www.youtube.com/watch?v=xaNDLMsuKKk).
 
-**https://www.youtube.com/watch?v=xaNDLMsuKKk**
-
-The full recording is approximately **2:34, 2560×1440 / 60 FPS** and demonstrates the real application rather than a mock-up. The video intentionally stays outside Git history so the repository remains lightweight.
-
-The root README uses YouTube's own thumbnail endpoint as the clickable preview:
-
-```md
-[![Watch the full FlipBot demo](https://img.youtube.com/vi/xaNDLMsuKKk/maxresdefault.jpg)](https://www.youtube.com/watch?v=xaNDLMsuKKk)
-```
-
-## Demo storyboard
+The root README keeps a clickable YouTube thumbnail. The full recording stays on YouTube rather than in Git history.
 
 | Approx. time | Scene |
 | --- | --- |
-| 0:05 | dashboard / operational metrics |
-| 0:25 | bot creation and configuration |
-| 0:50 | history / persisted results |
-| 1:15 | transition to the live automation engine |
-| 1:40 | ten headless browser slots / parallel runtime |
-| 2:05 | Runtime dashboard and worker state |
-| 2:28 | dashboard state changing alongside logs |
+| 0:05 | Dashboard and metrics |
+| 0:25 | Bot configuration |
+| 0:50 | Persisted history |
+| 1:15 | Automation runtime |
+| 1:40 | Ten headless browser slots |
+| 2:05 | Runtime telemetry |
+| 2:28 | Dashboard updates alongside logs |
 
 ## Future screenshots
 
-A few static screenshots can still help readers who do not play the video. Good candidates are:
+A compact gallery could show the dashboard, configuration, negotiation state and runtime monitoring. These are suggested assets, not files currently provided here.
 
-```text
-docs/media/
-├── dashboard.png
-├── bot-configuration.png
-├── negotiation-state.png
-└── runtime.png
-```
-
-Keep screenshots focused and readable. Crop irrelevant browser/IDE chrome and remove or replace private e-mail addresses, passwords, cookies, session values and other account-specific data before committing them.
+Use descriptive filenames, readable crops and lightweight images. Remove credentials, cookies, session values and account-specific data before publishing new media.
